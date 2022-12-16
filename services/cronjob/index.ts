@@ -1,23 +1,37 @@
-const CronJob = require('cron').CronJob;
-const lodash = require('lodash');
-const CronJobTime = '28 11 * * *'; // '28 11 * * 1-5';
+import cron from 'cron';
+import lodash from 'lodash';
+import { ICronJob } from './model';
 
-export default class CronJobManagement {
-  list = <any>[];
+class CronJobManagement {
+  list = <ICronJob[]>[];
   constructor() {}
 
   create({
-    time = CronJobTime,
+    name = 'cronjob',
+    cronTime = process.env.CRON_JOB_TIME || '',
     action = () => {},
     actionOnStop = () => {},
     startAtInit = true,
     timezone = 'Asia/Bangkok',
-  }) {
-    const job = new CronJob(time, action, actionOnStop, startAtInit, timezone);
-    this.list.push(job);
+  }: ICronJob) {
+    const job = new cron.CronJob(
+      cronTime,
+      action,
+      actionOnStop,
+      startAtInit,
+      timezone
+    );
+
+    this.list.push({
+      name: name,
+      id: new Date().getTime(),
+      instance: job,
+      cronTime,
+      timezone,
+    });
   }
 
-  start(id) {
+  start(id: string) {
     let selected = lodash.find(this.list, { id: id });
     if (selected) {
       selected.start();
@@ -25,7 +39,7 @@ export default class CronJobManagement {
       console.log('error');
     }
   }
-  stop(id) {
+  stop(id: string) {
     let selected = lodash.find(this.list, { id: id });
     if (selected) {
       selected.stop();
@@ -34,11 +48,20 @@ export default class CronJobManagement {
     }
   }
 
+  remove(id: string) {
+    this.list = lodash.remove(this.list, { id: id });
+  }
+
   getList() {
-    return this.list;
+    return this.list.map((item: any) => {
+      delete item.instance;
+      return item;
+    });
   }
 
   reset() {
     this.list = [];
   }
 }
+
+export default new CronJobManagement();
