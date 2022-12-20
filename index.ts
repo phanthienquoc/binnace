@@ -1,20 +1,32 @@
 import express, { Express } from 'express';
 
 import dotenv from 'dotenv';
+import cors from 'cors';
 import appRoutes from './routes';
-import telegram from './providers/telegram';
+import bodyParser from 'body-parser'
 
-import cronjobs from './services/cronjob';
 
 dotenv.config();
 
 const app: Express = express();
 const port = process.env.PORT;
+// app.use(cors({ origin: ['http://localhost:8080', 'http://127.0.0.1:3000'] }));
 
-cronjobs.create({
-  action: () => {
-    console.log('card');
-  },
+app.use(bodyParser.json());
+
+app.use(function (req, res, next) {
+  res.setHeader('Access-Control-Allow-Origin', '*');
+  res.setHeader(
+    'Access-Control-Allow-Methods',
+    'GET, POST, OPTIONS, PUT, PATCH, DELETE'
+  ); // If needed
+  res.setHeader(
+    'Access-Control-Allow-Headers',
+    'X-Requested-With,content-type'
+  ); // If needed
+  res.setHeader('Access-Control-Allow-Credentials', 'true'); // If needed
+
+  next();
 });
 
 appRoutes(app);

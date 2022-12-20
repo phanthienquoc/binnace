@@ -1,18 +1,14 @@
+import telegram from '../../providers/telegram';
 
-import telegram  from "../../providers/telegram";
+import { getDistance } from './utils';
+import { TELEGRAM } from '../../constants/constants';
 
 const CronJob = require('cron').CronJob;
-const CronJobTime = '00 11 00 * * 1-5'; // '00 09 15 * * 1-5';
 
 const job = new CronJob(
-  CronJobTime,
+  TELEGRAM.TET_FEATURE.CRON_JOB_TIME,
   function () {
-    /*
-     * Runs every weekday (Monday through Friday)
-     * at 11:30:00 AM. It does not run on Saturday
-     * or Sunday.
-     */
-    telegram.sendMessage(603532799,`xxx`);
+    telegram.sendMessage(TELEGRAM.USER_ID, getDistance());
   },
   function () {
     /* This function is executed when the job stops */

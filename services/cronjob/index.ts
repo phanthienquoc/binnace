@@ -9,7 +9,9 @@ class CronJobManagement {
   create({
     name = 'cronjob',
     cronTime = process.env.CRON_JOB_TIME || '',
-    action = () => {},
+    action = () => {
+      console.log('detaul');
+    },
     actionOnStop = () => {},
     startAtInit = true,
     timezone = 'Asia/Bangkok',
@@ -22,13 +24,19 @@ class CronJobManagement {
       timezone
     );
 
-    this.list.push({
+    const newList = [...this.list];
+
+    newList.push({
       name: name,
       id: new Date().getTime(),
       instance: job,
       cronTime,
       timezone,
     });
+
+    this.list = [...newList];
+
+    console.log(this.list);
   }
 
   start(id: string) {
@@ -53,10 +61,11 @@ class CronJobManagement {
   }
 
   getList() {
-    return this.list.map((item: any) => {
+    let getList = [...this.list].map((item) => {
       delete item.instance;
       return item;
     });
+    return getList;
   }
 
   reset() {

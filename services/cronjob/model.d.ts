@@ -9,6 +9,7 @@ interface ICronJob {
   instance?: any;
   start?: any;
   stop?: any;
+  description?:any
 }
 
 export { ICronJob };
