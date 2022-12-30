@@ -3,10 +3,23 @@ import express, { Express } from 'express';
 import dotenv from 'dotenv';
 import cors from 'cors';
 import appRoutes from './routes';
-import bodyParser from 'body-parser'
-
+import bodyParser from 'body-parser';
+import {
+  login,
+  register,
+  initData,
+  createUser,
+} from './providers/firebase/users';
 
 dotenv.config();
+
+login({
+  email: 'phanthienquoc@outlook.com',
+  password: 'Hello@123',
+}).then((user: any) => {
+  initData('users', user?.user?.uid);
+});
+// register({ email: 'phanthienquoc@outlook.com', password: 'Hello@123' });
 
 const app: Express = express();
 const port = process.env.PORT;
