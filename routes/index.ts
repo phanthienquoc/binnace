@@ -1,13 +1,21 @@
 import { Express } from 'express';
 
-import tetRoute from '../services/tet/route';
-import homeRoute from '../services/home/route';
-import userRoute from '../services/user/route';
-import cronJobsRoute from '../services/cronjob/route';
-import notFoundRoute from '../services/notfound/route';
+import tet from '../services/tet/route';
+import home from '../services/home/route';
+import user from '../services/user/route';
+import cron from '../services/cronjob/route';
+import notFound from '../services/notfound/route';
 
-const registerRoutes = [homeRoute, userRoute, cronJobsRoute, tetRoute];
+const registerRoutes = [tet, home, user, cron];
+const appRoutes = [...registerRoutes, notFound];
 
+export const API_Routes = (app: Express) => {
+  return appRoutes.map((route: any) => route.APIRoute(app));
+};
 
-const appRoutes = [...registerRoutes, notFoundRoute];
-export default (app: Express) => appRoutes.map((route) => route(app));
+export const TELEGRAM_Routes = (telegram: any) => {
+  appRoutes.map((route: any) => {
+    console.log(route.TELEGRAMRoute);
+    route.TELEGRAMRoute(telegram);
+  });
+};

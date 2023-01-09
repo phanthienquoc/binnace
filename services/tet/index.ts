@@ -1,6 +1,3 @@
-import telegram from '../../providers/telegram';
-
-import { getDistance } from './utils';
 import { TELEGRAM } from '../../constants/constants';
 
 const CronJob = require('cron').CronJob;
@@ -8,7 +5,7 @@ const CronJob = require('cron').CronJob;
 const job = new CronJob(
   TELEGRAM.TET_FEATURE.CRON_JOB_TIME,
   function () {
-    telegram.sendMessage(TELEGRAM.USER_ID, getDistance());
+    // telegramBot.sendMessage(TELEGRAM.USER_ID, getDistance());
   },
   function () {
     /* This function is executed when the job stops */

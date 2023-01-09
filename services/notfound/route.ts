@@ -6,4 +6,9 @@ const notFoundRoute = (app: Express) => {
   });
 };
 
-export default notFoundRoute;
+export const notFoundTelegramRoute = (telegram: any = null) => {};
+
+export default {
+  APIRoute: notFoundRoute,
+  TELEGRAMRoute: notFoundTelegramRoute,
+};

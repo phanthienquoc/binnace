@@ -1,7 +1,8 @@
-import { TELEGRAM } from './../../constants/constants';
-import { Express, Request, Response } from 'express';
 import cronjob from './index';
 import telegram from '../../providers/telegram';
+
+import { TELEGRAM } from './../../constants/constants';
+import { Express, Request, Response } from 'express';
 import {
   getSchedueTemplate,
   getRegisterSuccessTemplate,
@@ -25,7 +26,7 @@ const cronJobsRoute = (app: Express) => {
               TELEGRAM.USER_ID,
               getSchedueTemplate(newcronjob)
             );
-          }
+          },
         };
 
         cronjob.create(newcronjob);
@@ -43,17 +44,20 @@ const cronJobsRoute = (app: Express) => {
       }
     })
     .put((req: Request, res: Response) => {
-      // res.send('Update a cronjobs');
       res.send(cronjob.getList());
     })
     .delete((req: Request, res: Response) => {
-      // res.send('Detele a cronjobs');
       res.send(cronjob.getList());
     });
+};
 
-  telegram.onCommand(/\/cronjob(.+)/, (msg: any) => {
+const cronJobsTelegram = (telegram: any) => {
+  telegram.onCommand(/\/cronjob/, (msg: any) => {
     telegram.sendMessage(msg.chat.id, JSON.stringify(cronjob.getList()));
   });
 };
 
-export default cronJobsRoute;
+export default {
+  APIRoute: cronJobsRoute,
+  TELEGRAMRoute: cronJobsTelegram,
+};

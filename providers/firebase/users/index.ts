@@ -1,12 +1,7 @@
 import { db } from '../index';
-import {
-  collection,
-  doc,
-  getDoc,
-  setDoc,
-  addDoc,
-  Timestamp,
-} from 'firebase/firestore';
+import { doc, getDoc, addDoc, setDoc, Timestamp } from 'firebase/firestore';
+import { query, where, getDocs, collection } from 'firebase/firestore';
+
 import {
   getAuth,
   createUserWithEmailAndPassword,
@@ -20,32 +15,43 @@ interface ILogin {
 
 export const auth = getAuth();
 
-export const createUser = async (
-  docData = {
-    stringExample: 'Hello world!',
-    booleanExample: true,
-    numberExample: 3.14159265,
-    dateExample: Timestamp.fromDate(new Date('December 10, 1815')),
-    arrayExample: [5, true, 'hello'],
-    nullExample: null,
-    objectExample: {
-      a: 5,
-      b: {
-        nested: 'foo',
-      },
-    },
+export const createUser = async (docData: any) => {
+  let user = await getUser({ user_id: docData.user_id });
+  if (!user) {
+    await setDoc(doc(db, 'users', docData.uuid), docData);
   }
-) => {
-  await setDoc(doc(db, 'users', 'one'), docData);
 };
 
 export const updateUser = async () => {};
 
 export const deleteUser = async () => {};
 
-export const getUsers = async () => {};
+export const getUsers = async () => {
+  const userRef = collection(db, 'users');
+  const docSnap = await getDocs(userRef);
 
-export const getUser = async () => {};
+  let listUser = <any>[];
+  docSnap.forEach((doc) => {
+    listUser = [...listUser, doc.data()];
+  });
+
+  console.log('getUsers', listUser);
+
+  return listUser;
+};
+
+export const getUser = async ({ user_id }: any) => {
+  const q = query(collection(db, 'users'), where('user_id', '==', user_id));
+  const querySnapshot = await getDocs(q);
+  let user = null;
+  querySnapshot.forEach((doc) => {
+    // doc.data() is never undefined for query doc snapshots
+    console.log(doc.id, ' => ', doc.data());
+    user = doc.data();
+  });
+
+  return user;
+};
 
 export const register = async ({ email, password }: ILogin) => {
   try {
@@ -74,48 +80,6 @@ export const login = async ({ email, password }: ILogin) => {
     return userCredential;
   } catch (err) {
     console.error(err);
-  }
-};
-
-export const initData = async (collectionPath = 'users', userId: string) => {
-  try {
-    // await setDoc(doc(db, collectionPath, `${userId}`, 'dates', '123'), {
-    //   name: 'Los Angeles',
-    //   state: 'CA',
-    //   country: 'USA',
-    // });
-
-    // const newCityRef = doc(collection(db, collectionPath, 'contacts'));
-
-    // Add a new document with a generated id.
-    const docRef = await addDoc(
-      collection(db, collectionPath, `${userId}`, 'contacts'),
-      {
-        name: 'Tokyo',
-        country: 'Japan',
-        // created_at: Timestamp.fromDate(new Date()),
-        created_at: new Date().getTime(),
-      }
-    );
-    console.log('Document written with ID: ', docRef.id);
-
-    // await setDoc(doc(db, collectionPath, `${userId}`, 'contacts', '123'), {
-    //   name: 'Los Angeles',
-    //   state: 'CA',
-    //   country: 'USA',
-    // });
-
-    // console.log(doc(db, `${collectionPath}\${userId}`));
-
-    // let pathSegments = `${userId}/dates`;
-    // const collectionNameRef = collection(db, collectionPath, userId);
-    // await setDoc(doc(collectionNameRef, collectionPath, userId), {
-    //   name: 'Los Angeles',
-    //   state: 'CA',
-    //   country: 'USA',
-    // });
-  } catch (error) {
-    console.log(JSON.stringify(error));
   }
 };
 

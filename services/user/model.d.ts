@@ -1,3 +1,8 @@
+enum OTP_METHOD {
+  PHONE = 'PHONE',
+  EMAIL = 'EMAIL',
+  TOTP = 'TOTP',
+}
 export interface IUser {
   user_id?: string;
   merchant_id?: string;
@@ -19,7 +24,7 @@ export interface IUser {
   created_at?: string;
   updated_at?: string;
   role?: string;
-  otp_method?: string;
+  otp_method?: OTP_METHOD;
 }
 
 export { IUser };

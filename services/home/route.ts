@@ -6,4 +6,15 @@ const homeRoute = (app: Express) => {
   });
 };
 
-export default homeRoute;
+const homeTelegramRoute = (telegram: any = null) => {
+  if (telegram) {
+    telegram.onCommand(/\/home/, (msg: any) => {
+      telegram.sendMessage(msg.from.id, `@${msg.from.username} home!`);
+    });
+  }
+};
+
+export default {
+  APIRoute: homeRoute,
+  TELEGRAMRoute: homeTelegramRoute,
+};

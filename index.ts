@@ -1,29 +1,22 @@
 import express, { Express } from 'express';
 
 import dotenv from 'dotenv';
-import cors from 'cors';
-import appRoutes from './routes';
+import { API_Routes, TELEGRAM_Routes } from './routes';
 import bodyParser from 'body-parser';
-import {
-  login,
-  register,
-  initData,
-  createUser,
-} from './providers/firebase/users';
+import { adminSystemLogin } from './providers/firebase/index';
+import telegram from './providers/telegram';
 
 dotenv.config();
-
-login({
-  email: 'phanthienquoc@outlook.com',
-  password: 'Hello@123',
-}).then((user: any) => {
-  initData('users', user?.user?.uid);
-});
-// register({ email: 'phanthienquoc@outlook.com', password: 'Hello@123' });
 
 const app: Express = express();
 const port = process.env.PORT;
 // app.use(cors({ origin: ['http://localhost:8080', 'http://127.0.0.1:3000'] }));
+
+app.use(
+  bodyParser.urlencoded({
+    extended: true,
+  })
+);
 
 app.use(bodyParser.json());
 
@@ -42,7 +35,10 @@ app.use(function (req, res, next) {
   next();
 });
 
-appRoutes(app);
+API_Routes(app);
+TELEGRAM_Routes(telegram);
+
+adminSystemLogin();
 
 app.listen(port, () => {
   console.log(`⚡️[server]: Server is running at http://localhost:${port}`);

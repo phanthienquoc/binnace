@@ -5,23 +5,21 @@ class TelegramProvider {
   bot: any;
 
   constructor() {
-    console.log('init telegram bot');
-    if (this.bot) return this.bot;
-    this.bot = new TelegramBot(TELEGRAM.BOT_TELEGRAM_TOKEN);
-    if (this.bot) {
-      this.bot.stopPolling();
-      this.bot.startPolling();
+    try {
+      if (this.bot) return this.bot;
+      this.bot = new TelegramBot(TELEGRAM.BOT_TELEGRAM_TOKEN, {
+        polling: true,
+      });
+      console.log(this.bot.sendMessage(TELEGRAM.USER_ID, `Lucifer's online!`));
+    } catch (error) {
+      console.log('Re-init telegram');
+      this.reset();
     }
-    // this.bot.on('message', (msg: any) => {
-    //   const chatId = msg.chat.id;
-    //   console.log(msg);
-    //   // this.bot.sendMessage(USER_ID, 'ahihi');
-    // });
   }
 
-  reset() {
-    this.bot.stopPolling();
-    this.bot.startPolling();
+  async reset() {
+    await this.bot.stopPolling();
+    await this.bot.startPolling();
   }
 
   sendMessage(chatId: any, message: string) {
@@ -30,10 +28,6 @@ class TelegramProvider {
 
   onMessage(text: string, callBack: any) {
     this.bot.onText(text, callBack);
-  }
-
-  getBot() {
-    return this.bot;
   }
 
   onCommand(regexp: RegExp, callback: any) {
