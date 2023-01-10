@@ -10,7 +10,6 @@ const userRoute = (app: Express) => {
 };
 
 export const userTelegramRoute = (telegram: any = null) => {
-  console.log(telegram);
   if (telegram) {
     telegram.onCommand(/\/register/, (msg: any) => {
       telegram.sendMessage(msg.from.id, `@${msg.from.username} registered in!`);
