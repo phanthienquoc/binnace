@@ -1,4 +1,4 @@
-import { db } from '../index';
+import { database } from '../index';
 import { doc, getDoc, addDoc, setDoc, Timestamp } from 'firebase/firestore';
 import { query, where, getDocs, collection } from 'firebase/firestore';
 
@@ -18,7 +18,8 @@ export const auth = getAuth();
 export const createUser = async (docData: any) => {
   let user = await getUser({ user_id: docData.user_id });
   if (!user) {
-    await setDoc(doc(db, 'users', docData.uuid), docData);
+    let userRef = collection(database, 'users');
+    await addDoc(userRef, docData);
   }
 };
 
@@ -27,7 +28,7 @@ export const updateUser = async () => {};
 export const deleteUser = async () => {};
 
 export const getUsers = async () => {
-  const userRef = collection(db, 'users');
+  const userRef = collection(database, 'users');
   const docSnap = await getDocs(userRef);
 
   let listUser = <any>[];
@@ -35,17 +36,17 @@ export const getUsers = async () => {
     listUser = [...listUser, doc.data()];
   });
 
-  console.log('getUsers', listUser);
-
   return listUser;
 };
 
 export const getUser = async ({ user_id }: any) => {
-  const q = query(collection(db, 'users'), where('user_id', '==', user_id));
+  const q = query(
+    collection(database, 'users'),
+    where('user_id', '==', user_id)
+  );
   const querySnapshot = await getDocs(q);
   let user = null;
   querySnapshot.forEach((doc) => {
-    // doc.data() is never undefined for query doc snapshots
     console.log(doc.id, ' => ', doc.data());
     user = doc.data();
   });
@@ -85,7 +86,7 @@ export const login = async ({ email, password }: ILogin) => {
 
 export const getData = async () => {
   try {
-    const docRef = doc(db, 'cities', 'SF');
+    const docRef = doc(database, 'cities', 'SF');
     const docSnap = await getDoc(docRef);
 
     if (docSnap.exists()) {

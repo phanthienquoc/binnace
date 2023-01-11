@@ -1,8 +1,8 @@
-import { getDataFromTextByRegex } from './utils';
 import { Express, Request, Response } from 'express';
-import StockRepository from '../../repository/firebaseRepository/stock';
+import OrderRepository from '../../repository/firebaseRepository/order';
+import { getDataFromTextByRegex } from './utils';
 
-const stockRoute = (app: Express) => {
+const orderRoute = (app: Express) => {
   app
     .route('/stock')
     .get((req: Request, res: Response) => {
@@ -21,8 +21,8 @@ const stockRoute = (app: Express) => {
 
 const telegramRoute = (telegram: any = null) => {
   if (telegram) {
-    let stockManagement = new StockRepository();
-    telegram.onCommand(/\/stock/, async (msg: any) => {
+    let stockManagement = new OrderRepository();
+    telegram.onCommand(/\/order/, async (msg: any) => {
       let newStockOrder = {
         init_user_id: msg.chat.id,
         user_id: msg.from.id,
@@ -35,6 +35,6 @@ const telegramRoute = (telegram: any = null) => {
 };
 
 export default {
-  APIRoute: stockRoute,
+  APIRoute: orderRoute,
   TELEGRAMRoute: telegramRoute,
 };

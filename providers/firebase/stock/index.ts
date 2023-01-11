@@ -1,13 +1,11 @@
-import { db } from '../index';
+import { database } from '../index';
 import { doc, getDoc, addDoc, setDoc, Timestamp } from 'firebase/firestore';
 import { query, where, getDocs, collection } from 'firebase/firestore';
-import { getAuth } from 'firebase/auth';
-import { ACTION_METHOD } from '../../../services/stock/model';
 
-export const auth = getAuth();
-
-export const createTicket = async (docData: any) => {
+export const createTicket = async (userId: string, docData: any) => {
   console.log('createTicket', docData);
+
+  let order = { ...docData };
   // docData = {
   //   label: 'Hello world!',
   //   quantity: 10,
@@ -15,5 +13,6 @@ export const createTicket = async (docData: any) => {
   //   price: 3.14159265,
   //   action: ACTION_METHOD.BUY,
   // };
-  // await setDoc(doc(db, 'stocks', 'one'), docData);
+  let stockRef = collection(database, 'stocks');
+  await addDoc(doc(database, 'stocks', userId), docData);
 };

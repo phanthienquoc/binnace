@@ -3,23 +3,23 @@ import { writeBatch, doc } from 'firebase/firestore';
 /**
  *
  * Docs https://firebase.google.com/docs/firestore/manage-data/transactions#batched-writes
- * @param db
+ * @param database
  */
 
-const batchTemplate = async (db: any) => {
+const batchTemplate = async (database: any) => {
   // Get a new write batch
-  const batch = writeBatch(db);
+  const batch = writeBatch(database);
 
   // Set the value of 'NYC'
-  const nycRef = doc(db, 'cities', 'NYC');
+  const nycRef = doc(database, 'cities', 'NYC');
   batch.set(nycRef, { name: 'New York City' });
 
   // Update the population of 'SF'
-  const sfRef = doc(db, 'cities', 'SF');
+  const sfRef = doc(database, 'cities', 'SF');
   batch.update(sfRef, { population: 1000000 });
 
   // Delete the city 'LA'
-  const laRef = doc(db, 'cities', 'LA');
+  const laRef = doc(database, 'cities', 'LA');
   batch.delete(laRef);
 
   // Commit the batch

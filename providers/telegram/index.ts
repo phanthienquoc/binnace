@@ -10,7 +10,10 @@ class TelegramProvider {
       this.bot = new TelegramBot(TELEGRAM.BOT_TELEGRAM_TOKEN, {
         polling: true,
       });
-      console.log(this.bot.sendMessage(TELEGRAM.USER_ID, `Lucifer's online!`));
+      this.bot.on('channel_post', (msg: any) => {
+        console.log(msg);
+        this.bot.sendMessage(TELEGRAM.CHANNEL.LOGGER.ID, JSON.stringify(msg));
+      });
     } catch (error) {
       console.log('Re-init telegram');
       this.reset();
@@ -32,6 +35,12 @@ class TelegramProvider {
 
   onCommand(regexp: RegExp, callback: any) {
     this.bot.onText(regexp, callback);
+  }
+
+  sendChannel(chatId: any, message: any) {
+    this.bot.sendMessage(chatId, message, {
+      parse_mode: 'HTML',
+    });
   }
 }
 
