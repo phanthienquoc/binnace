@@ -1,0 +1,4753 @@
+[{
+    "Code": "AAA",
+    "Name": "An Phat Plastic and Green Environment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AAA4"
+}, {
+    "Code": "AAM",
+    "Name": "Mekong Fisheries JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AAM9"
+}, {
+    "Code": "AAT",
+    "Name": "Tien Son Thanh Hoa JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AAT4"
+}, {
+    "Code": "AAV",
+    "Name": "Viet Tien Son Real Estate Holding Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AAV0"
+}, {
+    "Code": "ABR",
+    "Name": "Viet Brand Invest JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ABR6"
+}, {
+    "Code": "ABS",
+    "Name": "Binhthuan Agriculture Services JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ABS4"
+}, {
+    "Code": "ABT",
+    "Name": "Bentre Aquaproduct Import and Export JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ABT2"
+}, {
+    "Code": "ACB",
+    "Name": "Asia Commercial Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ACB8"
+}, {
+    "Code": "ACC",
+    "Name": "ACC Binh Duong Investment and Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ACC6"
+}, {
+    "Code": "ACL",
+    "Name": "Cuulong Fish JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ACL7"
+}, {
+    "Code": "ADG",
+    "Name": "Clever Group Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ADG5"
+}, {
+    "Code": "ADS",
+    "Name": "Damsan JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ADS0"
+}, {
+    "Code": "AGG",
+    "Name": "An Gia Real Estate Investment and Development Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AGG8"
+}, {
+    "Code": "AGM",
+    "Name": "An Giang Import Export Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AGM6"
+}, {
+    "Code": "AGR",
+    "Name": "AgriBank Securities JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AGR5"
+}, {
+    "Code": "AMC",
+    "Name": "Asia Mineral",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AMC5"
+}, {
+    "Code": "AMD",
+    "Name": "FLC Stone Mining and Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AMD3"
+}, {
+    "Code": "AME",
+    "Name": "Alphanam M&E",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AME1"
+}, {
+    "Code": "AMV",
+    "Name": "American Vietnamese Biotech Inc",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AMV5"
+}, {
+    "Code": "ANV",
+    "Name": "Nam Viet Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ANV3"
+}, {
+    "Code": "APC",
+    "Name": "An Phu Irradiation JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000APC8"
+}, {
+    "Code": "APG",
+    "Name": "APG Securities Joint Stock Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000APG9"
+}, {
+    "Code": "APH",
+    "Name": "An Phat Holdings JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000APH7"
+}, {
+    "Code": "API",
+    "Name": "Asia Pacific Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000API5"
+}, {
+    "Code": "APS",
+    "Name": "Asia Pacific Securities JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000APS4"
+}, {
+    "Code": "ASG",
+    "Name": "ASG Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ASG3"
+}, {
+    "Code": "ASM",
+    "Name": "Sao Mai Group Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ASM1"
+}, {
+    "Code": "ASP",
+    "Name": "An Pha Petroleum Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ASP4"
+}, {
+    "Code": "AST",
+    "Name": "Taseco Air Services JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000AST6"
+}, {
+    "Code": "BAF",
+    "Name": "BAF Viet Nam Agriculture JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "BBC",
+    "Name": "Bibica Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BBC6"
+}, {
+    "Code": "BCC",
+    "Name": "Bim Son Cement JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BCC4"
+}, {
+    "Code": "BCE",
+    "Name": "Binh Duong Construction & Civil Engineering JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BCE0"
+}, {
+    "Code": "BCF",
+    "Name": "Bich Chi Food Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BCF7"
+}, {
+    "Code": "BCG",
+    "Name": "Bamboo Capital JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BCG5"
+}, {
+    "Code": "BCM",
+    "Name": "Investment and Industrial Development Joint Stock Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BCM3"
+}, {
+    "Code": "BFC",
+    "Name": "Binh Dien Fertilizer JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BFC7"
+}, {
+    "Code": "BHN",
+    "Name": "Hanoi Beer Alcohol and Beverage JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BHN0"
+}, {
+    "Code": "BHP",
+    "Name": "Ha Noi Hai Phong Beer JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "BIC",
+    "Name": "BIDV Insurance Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BIC1"
+}, {
+    "Code": "BID",
+    "Name": "Joint Stock Commercial Bank for Investment and Development of Vietnam",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BID9"
+}, {
+    "Code": "BII",
+    "Name": "Louis Land JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BII8"
+}, {
+    "Code": "BKG",
+    "Name": "BKG Viet Nam Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BKG8"
+}, {
+    "Code": "BMC",
+    "Name": "Binh Dinh Minerals JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BMC3"
+}, {
+    "Code": "BMI",
+    "Name": "BaoMinh Insurance Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BMI0"
+}, {
+    "Code": "BMP",
+    "Name": "Binh Minh Plastics JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BMP5"
+}, {
+    "Code": "BNA",
+    "Name": "Bao Ngoc Investment Production Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BNA5"
+}, {
+    "Code": "BPC",
+    "Name": "Bim Son Packing JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BPC6"
+}, {
+    "Code": "BRC",
+    "Name": "Ben Thanh Rubber JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BRC2"
+}, {
+    "Code": "BSI",
+    "Name": "BIDV Securities JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BSI7"
+}, {
+    "Code": "BTP",
+    "Name": "Ba Ria Thermal Power JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BTP0"
+}, {
+    "Code": "BTS",
+    "Name": "But Son Cement JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BTS4"
+}, {
+    "Code": "BTT",
+    "Name": "Ben Thanh Trading Service JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BTT2"
+}, {
+    "Code": "BVH",
+    "Name": "BaoViet Holdings",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BVH3"
+}, {
+    "Code": "BVS",
+    "Name": "Baoviet Securities Company",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BVS0"
+}, {
+    "Code": "BWE",
+    "Name": "Binh Duong Water Environment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BWE8"
+}, {
+    "Code": "BXH",
+    "Name": "Haiphong Packing VICEM JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000BXH9"
+}, {
+    "Code": "C32",
+    "Name": "CIC39 Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000C325"
+}, {
+    "Code": "C47",
+    "Name": "Construction JSC 47",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000C473"
+}, {
+    "Code": "C69",
+    "Name": "1369 Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000C697"
+}, {
+    "Code": "CAG",
+    "Name": "Angiang Port JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CAG7"
+}, {
+    "Code": "CAN",
+    "Name": "Ha Long Canned Food JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CAN3"
+}, {
+    "Code": "CAP",
+    "Name": "Yen Bai Forest JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CAP8"
+}, {
+    "Code": "CAV",
+    "Name": "Vietnam Electric Cable Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CAV6"
+}, {
+    "Code": "CCI",
+    "Name": "CuChi Commercial and Industrial Developing Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CCI9"
+}, {
+    "Code": "CCL",
+    "Name": "Cuu Long Petro Urban Development and Investment Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CCL3"
+}, {
+    "Code": "CDC",
+    "Name": "Chuong Duong Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CDC0"
+}, {
+    "Code": "CDN",
+    "Name": "Danang Port JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CDN7"
+}, {
+    "Code": "CEO",
+    "Name": "CEO Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CEO3"
+}, {
+    "Code": "CET",
+    "Name": "HTC Holding JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CET2"
+}, {
+    "Code": "CHP",
+    "Name": "Central Hydropower JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CHP3"
+}, {
+    "Code": "CIA",
+    "Name": "Cam Ranh International Airport Services JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CIA3"
+}, {
+    "Code": "CIG",
+    "Name": "COMA 18 JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CIG0"
+}, {
+    "Code": "CII",
+    "Name": "Ho Chi Minh City Infrastructure Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CII6"
+}, {
+    "Code": "CKD",
+    "Name": "Dong Anh Licogi Mechanical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CKD3"
+}, {
+    "Code": "CKG",
+    "Name": "Kien Giang Construction Investment Consultancy Group",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CKG6"
+}, {
+    "Code": "CLC",
+    "Name": "Cat Loi JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CLC3"
+}, {
+    "Code": "CLH",
+    "Name": "La Hien Cement JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CLH2"
+}, {
+    "Code": "CLL",
+    "Name": "Cat Lai Port JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CLL4"
+}, {
+    "Code": "CLM",
+    "Name": "Vinacomin Coal Import Export JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CLM2"
+}, {
+    "Code": "CLW",
+    "Name": "Cho Lon Water Supply JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CLW1"
+}, {
+    "Code": "CMC",
+    "Name": "CMC Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CMC1"
+}, {
+    "Code": "CMG",
+    "Name": "CMC Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CMG2"
+}, {
+    "Code": "CMS",
+    "Name": "Vietnam Constr",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CMS7"
+}, {
+    "Code": "CMV",
+    "Name": "Camau Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CMV1"
+}, {
+    "Code": "CMX",
+    "Name": "Camimex Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CMX7"
+}, {
+    "Code": "CNG",
+    "Name": "CNG Vietnam JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CNG0"
+}, {
+    "Code": "COM",
+    "Name": "Materials Petroleum JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000COM6"
+}, {
+    "Code": "CPC",
+    "Name": "CPC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CPC4"
+}, {
+    "Code": "CRC",
+    "Name": "Create Capital Vietnam Limited JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CRC0"
+}, {
+    "Code": "CRE",
+    "Name": "Century Land Joint Stock Company",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CRE6"
+}, {
+    "Code": "CSC",
+    "Name": "Cotana. JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CSC8"
+}, {
+    "Code": "CSM",
+    "Name": "Southern Rubber Industry JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CSM7"
+}, {
+    "Code": "CSV",
+    "Name": "South Basic Chemicals JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CSV8"
+}, {
+    "Code": "CTB",
+    "Name": "Hai Duong Pump Manufacturing JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CTB8"
+}, {
+    "Code": "CTD",
+    "Name": "Cotec Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CTD4"
+}, {
+    "Code": "CTF",
+    "Name": "City Auto Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CTF9"
+}, {
+    "Code": "CTG",
+    "Name": "Vietnam JSCmmercial Bank for Industry and Trade",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CTG7"
+}, {
+    "Code": "CTI",
+    "Name": "CuongThuan Idico Development Investment Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CTI3"
+}, {
+    "Code": "CTP",
+    "Name": "Minh Khang Capital Trading Public JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CTP8"
+}, {
+    "Code": "CTR",
+    "Name": "Viettel Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CTR4"
+}, {
+    "Code": "CTS",
+    "Name": "VietinBank Securities JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CTS2"
+}, {
+    "Code": "CVN",
+    "Name": "Vinam.JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CVN9"
+}, {
+    "Code": "CVT",
+    "Name": "CMC JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000CVT6"
+}, {
+    "Code": "D11",
+    "Name": "Real Estate 11",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000D117"
+}, {
+    "Code": "D2D",
+    "Name": "Industrial Urban Development JSC No 2",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000D2D0"
+}, {
+    "Code": "DAD",
+    "Name": "Danang Education Investment And Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DAD2"
+}, {
+    "Code": "DAG",
+    "Name": "Dong A Plastic Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DAG5"
+}, {
+    "Code": "DAH",
+    "Name": "Dong A Hotel Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DAH3"
+}, {
+    "Code": "DAT",
+    "Name": "Travel Investment and Seafood Development Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DAT8"
+}, {
+    "Code": "DBC",
+    "Name": "Dabaco",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DBC2"
+}, {
+    "Code": "DBD",
+    "Name": "Binh Dinh Pharmaceutical and Medical Equipment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DBD0"
+}, {
+    "Code": "DBT",
+    "Name": "Ben Tre Pharmaceutical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DBT6"
+}, {
+    "Code": "DC2",
+    "Name": "Development Investment Construction Number 2 JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DC23"
+}, {
+    "Code": "DC4",
+    "Name": "DIC Holdings Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DC49"
+}, {
+    "Code": "DCL",
+    "Name": "Cuu Long Pharmaceutical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DCL1"
+}, {
+    "Code": "DCM",
+    "Name": "Petrovietnam Camau Fertilizer",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DCM9"
+}, {
+    "Code": "DDG",
+    "Name": "Indochine Import Export Investment Industrial JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DDG9"
+}, {
+    "Code": "DGC",
+    "Name": "Ducgiang Chemicals & Detergent Powder Joint Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DGC1"
+}, {
+    "Code": "DGW",
+    "Name": "Digiworld Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DGW9"
+}, {
+    "Code": "DHA",
+    "Name": "Hoa An JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DHA3"
+}, {
+    "Code": "DHC",
+    "Name": "Dong Hai JSC of Bentre",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DHC9"
+}, {
+    "Code": "DHG",
+    "Name": "DHG Pharmaceutical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DHG0"
+}, {
+    "Code": "DHM",
+    "Name": "Duong Hieu Trading and Mining JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DHM8"
+}, {
+    "Code": "DHT",
+    "Name": "Hataphar",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DHT3"
+}, {
+    "Code": "DIC",
+    "Name": "DIC Investment and Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DIC7"
+}, {
+    "Code": "DIG",
+    "Name": "Development Investment Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DIG8"
+}, {
+    "Code": "DIH",
+    "Name": "Development Investment Construction Hoi An JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DIH6"
+}, {
+    "Code": "DL1",
+    "Name": "Alpha Seven Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DL14"
+}, {
+    "Code": "DLG",
+    "Name": "Duc Long Gia Lai Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DLG2"
+}, {
+    "Code": "DMC",
+    "Name": "DOMESCO Medical Import Export JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DMC9"
+}, {
+    "Code": "DNC",
+    "Name": "Hai Phong Electricity Water Machine Assembly JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DNC7"
+}, {
+    "Code": "DNP",
+    "Name": "Dong Nai Plastic Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DNP9"
+}, {
+    "Code": "DP3",
+    "Name": "Central Pharmaceutical JSC No3",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DP36"
+}, {
+    "Code": "DPG",
+    "Name": "Dat Phuong JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DPG3"
+}, {
+    "Code": "DPM",
+    "Name": "PetroVietnam Fertilizer and Chemicals Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DPM1"
+}, {
+    "Code": "DPR",
+    "Name": "Dong Phu Rubber JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DPR0"
+}, {
+    "Code": "DQC",
+    "Name": "Dien Quang JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DQC0"
+}, {
+    "Code": "DRC",
+    "Name": "Danang Rubber JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DRC8"
+}, {
+    "Code": "DRH",
+    "Name": "DRH Holdings JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DRH7"
+}, {
+    "Code": "DRL",
+    "Name": "Hydro Power JSC Power No3",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DRL9"
+}, {
+    "Code": "DS3",
+    "Name": "Riverway Management JSC No3",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DS33"
+}, {
+    "Code": "DSN",
+    "Name": "Dam Sen Water Park Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DSN3"
+}, {
+    "Code": "DST",
+    "Name": "Sao Thang Long Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DST0"
+}, {
+    "Code": "DTA",
+    "Name": "De Tam JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DTA8"
+}, {
+    "Code": "DTD",
+    "Name": "Thanh Dat Investment Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DTD2"
+}, {
+    "Code": "DTL",
+    "Name": "Dai Thien Loc Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DTL5"
+}, {
+    "Code": "DTT",
+    "Name": "Do Thanh Technology Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DTT8"
+}, {
+    "Code": "DVG",
+    "Name": "Dai Viet Paint Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "DVM",
+    "Name": "Vietnam Medicinal Materials JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "DVP",
+    "Name": "Dinhvu Port Investment Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DVP2"
+}, {
+    "Code": "DXG",
+    "Name": "Dat Xanh Real Estate Service Contructions Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DXG7"
+}, {
+    "Code": "DXP",
+    "Name": "Doan Xa Port JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DXP8"
+}, {
+    "Code": "DXS",
+    "Name": "Dat Xanh Real Estate Service JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "DXV",
+    "Name": "Da Nang Construction Building Materials Vicem JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000DXV6"
+}, {
+    "Code": "EIB",
+    "Name": "Vietnam Export Import Commercial Joint Stock Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000EIB7"
+}, {
+    "Code": "EID",
+    "Name": "Ha Noi Education Development And Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000EID3"
+}, {
+    "Code": "ELC",
+    "Name": "Elcom Technology Communications Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ELC9"
+}, {
+    "Code": "EMC",
+    "Name": "ThuDuc Electro Mechanical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000EMC7"
+}, {
+    "Code": "EVE",
+    "Name": "Everpia Vietnam JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000EVE4"
+}, {
+    "Code": "EVF",
+    "Name": "EVN Finance JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000EVF1"
+}, {
+    "Code": "EVG",
+    "Name": "Everland Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000EVG9"
+}, {
+    "Code": "FCM",
+    "Name": "Fecon Mining JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000FCM4"
+}, {
+    "Code": "FCN",
+    "Name": "Fecon Foundation Engineering and Underground Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000FCN2"
+}, {
+    "Code": "FDC",
+    "Name": "Foreign Trade Development and Investment Corp of Ho Chi Minh City",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000FDC3"
+}, {
+    "Code": "FID",
+    "Name": "Vietnam Enterprise Investment and Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000FID0"
+}, {
+    "Code": "FIR",
+    "Name": "FIRST REAL JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000FIR0"
+}, {
+    "Code": "FIT",
+    "Name": "FIT INVEST JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000FIT6"
+}, {
+    "Code": "FMC",
+    "Name": "Sao Ta Foods JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000FMC4"
+}, {
+    "Code": "FPT",
+    "Name": "FPT Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000FPT1"
+}, {
+    "Code": "FRT",
+    "Name": "FPT Digital Retail JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000FRT7"
+}, {
+    "Code": "FTS",
+    "Name": "FPT Securities JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000FTS5"
+}, {
+    "Code": "FUCVREIT",
+    "Name": "Techcom Vietnam REIT Fund",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "GAS",
+    "Name": "Petrovietnam Gas JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GAS3"
+}, {
+    "Code": "GDT",
+    "Name": "Duc Thanh Wood Processing JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GDT5"
+}, {
+    "Code": "GEG",
+    "Name": "Gia Lai Electricity JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GEG0"
+}, {
+    "Code": "GEX",
+    "Name": "Gelex Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GEX5"
+}, {
+    "Code": "GIC",
+    "Name": "Green Development & Services Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "GIL",
+    "Name": "Binh Thanh Import Export Production and Trade JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GIL1"
+}, {
+    "Code": "GKM",
+    "Name": "Khang Minh Brick JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GKM5"
+}, {
+    "Code": "GMC",
+    "Name": "Saigon Garment Manufacturing Trade JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GMC2"
+}, {
+    "Code": "GMD",
+    "Name": "Gemadept Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GMD0"
+}, {
+    "Code": "GMH",
+    "Name": "Minh Hung Quang Tri JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "GMX",
+    "Name": "MY XUAN BRICK",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GMX8"
+}, {
+    "Code": "GSP",
+    "Name": "International Gas Product Shipping JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GSP1"
+}, {
+    "Code": "GTA",
+    "Name": "Thuan An Wood Processing JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GTA1"
+}, {
+    "Code": "GVR",
+    "Name": "Vietnam Rubber Group Ltd",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000GVR1"
+}, {
+    "Code": "HAD",
+    "Name": "HAD",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HAD3"
+}, {
+    "Code": "HAF",
+    "Name": "Hanoi Foodstuff JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HAF8"
+}, {
+    "Code": "HAG",
+    "Name": "Hoang Anh Gia Lai JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HAG6"
+}, {
+    "Code": "HAH",
+    "Name": "Hai An Transport and Stevedoring JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HAH4"
+}, {
+    "Code": "HAP",
+    "Name": "Hapaco Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HAP7"
+}, {
+    "Code": "HAR",
+    "Name": "An Duong Thao Dien Real estate Trading Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HAR3"
+}, {
+    "Code": "HAS",
+    "Name": "Hacisco JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HAS1"
+}, {
+    "Code": "HAX",
+    "Name": "Hang Xanh Motors Service JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HAX1"
+}, {
+    "Code": "HBC",
+    "Name": "Hoa Binh Construction & Real Estate Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HBC3"
+}, {
+    "Code": "HBS",
+    "Name": "HBS",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HBS9"
+}, {
+    "Code": "HCC",
+    "Name": "Hoa Cam Concrete JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HCC1"
+}, {
+    "Code": "HCD",
+    "Name": "Hcd Investment Producing and Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HCD9"
+}, {
+    "Code": "HCM",
+    "Name": "Ho Chi Minh City Securities Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HCM0"
+}, {
+    "Code": "HDA",
+    "Name": "Dong A Paint JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HDA3"
+}, {
+    "Code": "HDB",
+    "Name": "Ho Chi Minh City Development Joint Stock Commercial Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HDB1"
+}, {
+    "Code": "HDC",
+    "Name": "Ba Ria Vung Tau House Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HDC9"
+}, {
+    "Code": "HDG",
+    "Name": "Ha Do Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HDG0"
+}, {
+    "Code": "HHG",
+    "Name": "HOANG HA JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HHG1"
+}, {
+    "Code": "HHP",
+    "Name": "Hai Phong Hoang Ha Paper JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HHP2"
+}, {
+    "Code": "HHS",
+    "Name": "Hoang Huy Investment Services JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HHS6"
+}, {
+    "Code": "HHV",
+    "Name": "Deo Ca Traffic Infrastructure Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HHV0"
+}, {
+    "Code": "HID",
+    "Name": "Ha Long Investment & Consulting JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HID6"
+}, {
+    "Code": "HII",
+    "Name": "An Phat Yen Bai Mineral & Plastic JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HII5"
+}, {
+    "Code": "HKT",
+    "Name": "Ego Viet Nam Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HKT8"
+}, {
+    "Code": "HLC",
+    "Name": "Vinacomin Ha Lam Coal JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HLC2"
+}, {
+    "Code": "HLD",
+    "Name": "HUDLAND Real Estate Investment and Development",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HLD0"
+}, {
+    "Code": "HMC",
+    "Name": "Hochiminh City Metal Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HMC0"
+}, {
+    "Code": "HMR",
+    "Name": "Hoang Mai Stone JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "HNG",
+    "Name": "Hoang Anh Gia Lai Agricultural JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HNG9"
+}, {
+    "Code": "HOM",
+    "Name": "HOM",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HOM5"
+}, {
+    "Code": "HPG",
+    "Name": "Hoa Phat Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HPG4"
+}, {
+    "Code": "HPI",
+    "Name": "Hiep Phuoc Industrial Park JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HPI0"
+}, {
+    "Code": "HPX",
+    "Name": "Hai Phat Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HPX9"
+}, {
+    "Code": "HQC",
+    "Name": "Hoang Quan Consulting Trading Service Real Estate Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HQC1"
+}, {
+    "Code": "HRC",
+    "Name": "Hoa Binh Rubber JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HRC9"
+}, {
+    "Code": "HSG",
+    "Name": "Hoasen Group",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HSG8"
+}, {
+    "Code": "HSI",
+    "Name": "General Materials Biochemistry Fertilizer JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HSI4"
+}, {
+    "Code": "HSL",
+    "Name": "Hong Ha Son La Processing Agricutural Product JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HSL8"
+}, {
+    "Code": "HT1",
+    "Name": "Ha Tien 1 Cement JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HT12"
+}, {
+    "Code": "HTI",
+    "Name": "Idico Infrastructure Development Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HTI2"
+}, {
+    "Code": "HTL",
+    "Name": "Truong Long Engineering and Auto JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HTL6"
+}, {
+    "Code": "HTN",
+    "Name": "Hung Thinh Incons JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HTN2"
+}, {
+    "Code": "HTV",
+    "Name": "Logistics Vicem JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HTV5"
+}, {
+    "Code": "HU1",
+    "Name": "HUD1 Investment and Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HU19"
+}, {
+    "Code": "HU3",
+    "Name": "HUD3 Investment and Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HU35"
+}, {
+    "Code": "HUB",
+    "Name": "Thua Thien Hue Construction Joint Stock Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HUB5"
+}, {
+    "Code": "HUT",
+    "Name": "HUD - TASCO",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HUT7"
+}, {
+    "Code": "HVH",
+    "Name": "HVC Investment and Technology JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HVH0"
+}, {
+    "Code": "HVN",
+    "Name": "Vietnam Airlines JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HVN8"
+}, {
+    "Code": "HVT",
+    "Name": "VICCO",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HVT5"
+}, {
+    "Code": "HVX",
+    "Name": "Vicem Hai Van Cement JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000HVX7"
+}, {
+    "Code": "IBC",
+    "Name": "Apax Holdings JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000IBC1"
+}, {
+    "Code": "ICG",
+    "Name": "Song Hong Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ICG0"
+}, {
+    "Code": "ICT",
+    "Name": "Telecoms & Informatics JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "IDI",
+    "Name": "International Development & Investment Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000IDI4"
+}, {
+    "Code": "IDJ",
+    "Name": "IDJ FINANCIAL",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000IDJ2"
+}, {
+    "Code": "IDV",
+    "Name": "VinhPhuc Infrastructure Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000IDV7"
+}, {
+    "Code": "IJC",
+    "Name": "Becamex Infrastructure Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000IJC4"
+}, {
+    "Code": "ILB",
+    "Name": "ICD Tan Cang Long Binh JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ILB2"
+}, {
+    "Code": "IMP",
+    "Name": "Imexpharm Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000IMP0"
+}, {
+    "Code": "INN",
+    "Name": "Agriculture Printing and Packaging JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000INN3"
+}, {
+    "Code": "ITA",
+    "Name": "Tan Tao Investment and Industry Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ITA7"
+}, {
+    "Code": "ITC",
+    "Name": "Investment and Trading of Real Estate JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ITC3"
+}, {
+    "Code": "ITD",
+    "Name": "Innovative Technology Development Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ITD1"
+}, {
+    "Code": "ITQ",
+    "Name": "THIEN QUANG GR",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ITQ3"
+}, {
+    "Code": "IVS",
+    "Name": "Guotai Junan Securities Vietnam Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000IVS5"
+}, {
+    "Code": "JVC",
+    "Name": "Japan Vietnam Medical Instrument JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000JVC7"
+}, {
+    "Code": "KBC",
+    "Name": "Kinh Bac City Development Share Holding Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KBC7"
+}, {
+    "Code": "KDC",
+    "Name": "Kido Group Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KDC3"
+}, {
+    "Code": "KDH",
+    "Name": "Khang Dien House Trading and Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KDH2"
+}, {
+    "Code": "KHG",
+    "Name": "Khai Hoan Land Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "KHP",
+    "Name": "Khanh Hoa Power JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KHP6"
+}, {
+    "Code": "KHS",
+    "Name": "Kien Hung JSC VN",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KHS0"
+}, {
+    "Code": "KLF",
+    "Name": "CFS Investment and Import Export Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KLF9"
+}, {
+    "Code": "KMR",
+    "Name": "Mirae JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KMR2"
+}, {
+    "Code": "KOS",
+    "Name": "Kosy JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KOS6"
+}, {
+    "Code": "KPF",
+    "Name": "Hoang Minh Finance Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KPF0"
+}, {
+    "Code": "KSB",
+    "Name": "Binh Duong Mineral and Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KSB3"
+}, {
+    "Code": "KSD",
+    "Name": "KSD",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KSD9"
+}, {
+    "Code": "KSF",
+    "Name": "KSFinance Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "KSQ",
+    "Name": "CNC Capital Viet Nam JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KSQ1"
+}, {
+    "Code": "KST",
+    "Name": "KASATI",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KST5"
+}, {
+    "Code": "KVC",
+    "Name": "Kim Vi Inox Import Export",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000KVC5"
+}, {
+    "Code": "L10",
+    "Name": "Lilama 10 JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000L102"
+}, {
+    "Code": "L14",
+    "Name": "LICOGI 14",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000L144"
+}, {
+    "Code": "L18",
+    "Name": "Construction And Investment JSC No 18",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000L185"
+}, {
+    "Code": "L40",
+    "Name": "40 Investment & Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "LAF",
+    "Name": "Long An Food Processing Export JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LAF0"
+}, {
+    "Code": "LAS",
+    "Name": "LAM THAO FERTI",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LAS3"
+}, {
+    "Code": "LBM",
+    "Name": "Lam Dong Mineral and Building Material JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LBM4"
+}, {
+    "Code": "LCG",
+    "Name": "Licogi 16 JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LCG4"
+}, {
+    "Code": "LDG",
+    "Name": "LDG Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LDG2"
+}, {
+    "Code": "LDP",
+    "Name": "Lam Dong Pharmaceutical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LDP3"
+}, {
+    "Code": "LEC",
+    "Name": "Central Power Real Estate JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LEC9"
+}, {
+    "Code": "LGC",
+    "Name": "CII Bridges and Roads Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LGC4"
+}, {
+    "Code": "LGL",
+    "Name": "Long Giang Investment and Urban Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LGL5"
+}, {
+    "Code": "LHC",
+    "Name": "LHC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LHC2"
+}, {
+    "Code": "LHG",
+    "Name": "Long Hau Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LHG3"
+}, {
+    "Code": "LIG",
+    "Name": "LICOGI 13",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LIG1"
+}, {
+    "Code": "LIX",
+    "Name": "Lix Detergent JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LIX6"
+}, {
+    "Code": "LM7",
+    "Name": "LILAMA 7",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LM70"
+}, {
+    "Code": "LM8",
+    "Name": "Lilama 18 JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LM88"
+}, {
+    "Code": "LPB",
+    "Name": "Lien Viet Post Joint Stock Commercial Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LPB7"
+}, {
+    "Code": "LSS",
+    "Name": "Lam Son Sugar JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000LSS5"
+}, {
+    "Code": "MAC",
+    "Name": "Marine Supply and Engineering Service JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MAC5"
+}, {
+    "Code": "MAS",
+    "Name": "Danang Airport Services JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MAS1"
+}, {
+    "Code": "MBB",
+    "Name": "Military Commercial Joint Stock Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MBB5"
+}, {
+    "Code": "MBG",
+    "Name": "MBG Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MBG4"
+}, {
+    "Code": "MBS",
+    "Name": "MB Securities JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MBS9"
+}, {
+    "Code": "MCF",
+    "Name": "Mechanics Construction and Foodstuff JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MCF4"
+}, {
+    "Code": "MCG",
+    "Name": "MCG Energy and Real Estate JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MCG2"
+}, {
+    "Code": "MCP",
+    "Name": "My Chau Printing & Packaging Holdings Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MCP3"
+}, {
+    "Code": "MDG",
+    "Name": "Mien Dong JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MDG0"
+}, {
+    "Code": "MED",
+    "Name": "Mediplantex National Pharmaceutical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "MHC",
+    "Name": "MHC JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MHC0"
+}, {
+    "Code": "MIG",
+    "Name": "Military Insurance Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MIG9"
+}, {
+    "Code": "MSB",
+    "Name": "Vietnam Maritime Commercial JS Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "MSH",
+    "Name": "Song Hong Garment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MSH6"
+}, {
+    "Code": "MSN",
+    "Name": "Masan Group Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MSN4"
+}, {
+    "Code": "MST",
+    "Name": "MST Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MST1"
+}, {
+    "Code": "MWG",
+    "Name": "Mobile World Investment Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000MWG0"
+}, {
+    "Code": "NAF",
+    "Name": "Nafoods Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NAF6"
+}, {
+    "Code": "NAG",
+    "Name": "NAGAKAWA VIETN",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NAG4"
+}, {
+    "Code": "NAV",
+    "Name": "Nam Viet JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NAV3"
+}, {
+    "Code": "NBB",
+    "Name": "577 Investment Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NBB3"
+}, {
+    "Code": "NBC",
+    "Name": "Vinacomin NuiBeo Coal JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NBC1"
+}, {
+    "Code": "NBP",
+    "Name": "NinhBinh Thermal Power JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NBP3"
+}, {
+    "Code": "NCT",
+    "Name": "NoiBai Cargo Terminal Services JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NCT3"
+}, {
+    "Code": "NDN",
+    "Name": "DANANG HOUSING",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NDN4"
+}, {
+    "Code": "NDX",
+    "Name": "DA NANG HOUSIN",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NDX3"
+}, {
+    "Code": "NHA",
+    "Name": "Ha Noi South Housing and Urban Development Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NHA2"
+}, {
+    "Code": "NHH",
+    "Name": "Hanoi Plastics JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NHH7"
+}, {
+    "Code": "NHT",
+    "Name": "Nam Hoa Trading & Production Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NHT2"
+}, {
+    "Code": "NKG",
+    "Name": "Nam Kim Steel JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NKG3"
+}, {
+    "Code": "NLG",
+    "Name": "Nam Long Investment Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NLG1"
+}, {
+    "Code": "NNC",
+    "Name": "Nui Nho Stone JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NNC6"
+}, {
+    "Code": "NRC",
+    "Name": "Danh Khoi Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NRC7"
+}, {
+    "Code": "NSH",
+    "Name": "Song Hong Aluminum JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NSH4"
+}, {
+    "Code": "NST",
+    "Name": "Ngan Son JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NST9"
+}, {
+    "Code": "NT2",
+    "Name": "PetroVietnam Power Nhon Trach 2 JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NT22"
+}, {
+    "Code": "NTL",
+    "Name": "Tu Liem Urban Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NTL4"
+}, {
+    "Code": "NTP",
+    "Name": "Tien Phong Plastic JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NTP5"
+}, {
+    "Code": "NVB",
+    "Name": "National Citizen Commercial Joint Stock Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NVB1"
+}, {
+    "Code": "NVL",
+    "Name": "No Va Land Investment Group Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NVL0"
+}, {
+    "Code": "NVT",
+    "Name": "Ninh Van Bay Travel Real Estate JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000NVT3"
+}, {
+    "Code": "OCB",
+    "Name": "Orient Commercial JS Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "OCH",
+    "Name": "OCH.JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000OCH6"
+}, {
+    "Code": "OGC",
+    "Name": "Ocean Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000OGC8"
+}, {
+    "Code": "ONE",
+    "Name": "ONE CORP",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ONE0"
+}, {
+    "Code": "OPC",
+    "Name": "OPC Pharmaceutical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000OPC9"
+}, {
+    "Code": "ORS",
+    "Name": "Tien Phong Securities Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ORS1"
+}, {
+    "Code": "PAC",
+    "Name": "Dry Cell and Storage Battery JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PAC8"
+}, {
+    "Code": "PAN",
+    "Name": "PAN Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PAN5"
+}, {
+    "Code": "PBP",
+    "Name": "Petrovietnam Pac",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PBP8"
+}, {
+    "Code": "PC1",
+    "Name": "PC1 Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PC11"
+}, {
+    "Code": "PCE",
+    "Name": "Central PetroVietnam Fertilizer and Chemicals JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PCE0"
+}, {
+    "Code": "PCG",
+    "Name": "Petrovietnam Gas City Investment and Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PCG5"
+}, {
+    "Code": "PCH",
+    "Name": "Picomat Plastic JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "PDB",
+    "Name": "Din Capital Investment Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PDB4"
+}, {
+    "Code": "PDN",
+    "Name": "Dong Nai Port JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PDN9"
+}, {
+    "Code": "PDR",
+    "Name": "Phat Dat Real Estate Development Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PDR0"
+}, {
+    "Code": "PET",
+    "Name": "PetroVietnam General Services Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PET4"
+}, {
+    "Code": "PGC",
+    "Name": "Petrolimex Gas Corp JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PGC5"
+}, {
+    "Code": "PGD",
+    "Name": "Petrovietnam Low Pressure Gas Distribution JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PGD3"
+}, {
+    "Code": "PGI",
+    "Name": "Petrolimex Insurance Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PGI2"
+}, {
+    "Code": "PGS",
+    "Name": "Petrovietnam Southern Gas JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PGS1"
+}, {
+    "Code": "PGV",
+    "Name": "Power Generation Corp 3",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PGV5"
+}, {
+    "Code": "PHC",
+    "Name": "Phuc Hung Holdings Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PHC3"
+}, {
+    "Code": "PHR",
+    "Name": "Phuoc Hoa Rubber JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PHR1"
+}, {
+    "Code": "PIC",
+    "Name": "PC3 Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PIC1"
+}, {
+    "Code": "PIT",
+    "Name": "Petrolimex International Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PIT5"
+}, {
+    "Code": "PJT",
+    "Name": "Petrolimex Joint Stock Tanker Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PJT3"
+}, {
+    "Code": "PLC",
+    "Name": "Petrolimex Petrochemical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PLC5"
+}, {
+    "Code": "PLP",
+    "Name": "Pha Le Plastics Manufacturing and Technology JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PLP7"
+}, {
+    "Code": "PLX",
+    "Name": "Vietnam National Petroleum Group",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PLX1"
+}, {
+    "Code": "PMC",
+    "Name": "PHARMEDIC JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PMC3"
+}, {
+    "Code": "PMG",
+    "Name": "Petro Center Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PMG4"
+}, {
+    "Code": "PMS",
+    "Name": "Petroleum Mechanical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PMS9"
+}, {
+    "Code": "PNC",
+    "Name": "Phuong Nam Cultural JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PNC1"
+}, {
+    "Code": "PNJ",
+    "Name": "Phu Nhuan Jewelry JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PNJ6"
+}, {
+    "Code": "POM",
+    "Name": "Pomina Steel Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000POM8"
+}, {
+    "Code": "POT",
+    "Name": "Post&Telecommunication Equipment",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000POT3"
+}, {
+    "Code": "POW",
+    "Name": "Petrovietnam Power Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000POW7"
+}, {
+    "Code": "PPC",
+    "Name": "Pha Lai Thermal Power JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PPC6"
+}, {
+    "Code": "PPP",
+    "Name": "Phong Phu Pharmaceutical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PPP8"
+}, {
+    "Code": "PPS",
+    "Name": "PertroVietnam Power Services JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PPS2"
+}, {
+    "Code": "PRE",
+    "Name": "PVI Reinsurance Corp.",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "PSD",
+    "Name": "PETROLEUM GENE",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PSD8"
+}, {
+    "Code": "PSE",
+    "Name": "SouthEast Petrovietnam Fertilizer and Chemicals JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PSE6"
+}, {
+    "Code": "PSH",
+    "Name": "Nam Song Hau Trading Investing Petroleum JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PSH9"
+}, {
+    "Code": "PSI",
+    "Name": "Petrovienam Securities Inc",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PSI7"
+}, {
+    "Code": "PTB",
+    "Name": "Phu Tai JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PTB0"
+}, {
+    "Code": "PTC",
+    "Name": "Post and Telecommunications Investment and Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PTC8"
+}, {
+    "Code": "PTI",
+    "Name": "POST TELECOMMU",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PTI5"
+}, {
+    "Code": "PTL",
+    "Name": "Petro Capital and Infrastructure Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PTL9"
+}, {
+    "Code": "PV2",
+    "Name": "PV2 Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PV26"
+}, {
+    "Code": "PVB",
+    "Name": "PetroVietnam Coating JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PVB6"
+}, {
+    "Code": "PVC",
+    "Name": "Petrovietnam Drilling Mud JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PVC4"
+}, {
+    "Code": "PVD",
+    "Name": "PetroVietnam Drilling & Well Service Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PVD2"
+}, {
+    "Code": "PVG",
+    "Name": "Petro Vietnam LPG JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PVG5"
+}, {
+    "Code": "PVI",
+    "Name": "PVI Holdings",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PVI1"
+}, {
+    "Code": "PVL",
+    "Name": "Viet Property Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PVL5"
+}, {
+    "Code": "PVS",
+    "Name": "Petrovietnam Technical Services Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PVS0"
+}, {
+    "Code": "PVT",
+    "Name": "PetroVietnam Transportation Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000PVT8"
+}, {
+    "Code": "QBS",
+    "Name": "Quang Binh Import and Export JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000QBS0"
+}, {
+    "Code": "QCG",
+    "Name": "Quoc Cuong Gia Lai JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000QCG3"
+}, {
+    "Code": "QTC",
+    "Name": "Quang Nam Transportation Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000QTC6"
+}, {
+    "Code": "RAL",
+    "Name": "Rangdong Light source and Vacuum flask JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000RAL5"
+}, {
+    "Code": "RCL",
+    "Name": "Cholon Real Estate JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000RCL1"
+}, {
+    "Code": "RDP",
+    "Name": "RangDong Plastic JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000RDP0"
+}, {
+    "Code": "REE",
+    "Name": "Refrigeration Electrical Engineering Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000REE2"
+}, {
+    "Code": "S4A",
+    "Name": "Sesan 4A Hydroelectric JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000S4A5"
+}, {
+    "Code": "S55",
+    "Name": "Song Da 505 JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000S552"
+}, {
+    "Code": "S99",
+    "Name": "SCI JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000S990"
+}, {
+    "Code": "SAB",
+    "Name": "Saigon Beer Alcohol Beverage Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SAB4"
+}, {
+    "Code": "SAM",
+    "Name": "Sam Holdings Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SAM1"
+}, {
+    "Code": "SAV",
+    "Name": "Savimex Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SAV2"
+}, {
+    "Code": "SBA",
+    "Name": "Song Ba JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SBA4"
+}, {
+    "Code": "SBT",
+    "Name": "Thanh Thanh Cong Tay Ninh JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SBT4"
+}, {
+    "Code": "SBV",
+    "Name": "Siam Brothers Vietnam JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SBV0"
+}, {
+    "Code": "SC5",
+    "Name": "Construction JSC No5",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SC59"
+}, {
+    "Code": "SCD",
+    "Name": "Chuong Duong Beverages JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SCD6"
+}, {
+    "Code": "SCG",
+    "Name": "SCG Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "SCI",
+    "Name": "SCI E&C JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SCI5"
+}, {
+    "Code": "SCR",
+    "Name": "Saigon Thuong Tin Real Estate JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SCR6"
+}, {
+    "Code": "SCS",
+    "Name": "Sai Gon Cargo Service Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SCS4"
+}, {
+    "Code": "SD5",
+    "Name": "Song Da No. 5 JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SD58"
+}, {
+    "Code": "SD6",
+    "Name": "Song Da N0. 6 JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SD66"
+}, {
+    "Code": "SD9",
+    "Name": "Song Da No. 9 JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SD90"
+}, {
+    "Code": "SDA",
+    "Name": "Song Da Manpower Supply&Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SDA0"
+}, {
+    "Code": "SDT",
+    "Name": "Song Da N0 10. JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SDT0"
+}, {
+    "Code": "SED",
+    "Name": "EDID",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SED2"
+}, {
+    "Code": "SFC",
+    "Name": "Saigon Fuel JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SFC1"
+}, {
+    "Code": "SFG",
+    "Name": "Southern Fertilizer JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SFG2"
+}, {
+    "Code": "SFI",
+    "Name": "Sea & Air Freight International",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SFI8"
+}, {
+    "Code": "SGN",
+    "Name": "Sai Gon Ground Services JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SGN6"
+}, {
+    "Code": "SGR",
+    "Name": "Saigon Real Estate JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SGR7"
+}, {
+    "Code": "SGT",
+    "Name": "Saigon Telecommunication & Technologies Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SGT3"
+}, {
+    "Code": "SHA",
+    "Name": "Son Ha Sai Gon JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SHA1"
+}, {
+    "Code": "SHB",
+    "Name": "Sai Gon Ha Noi Commercial Joint Stock Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SHB9"
+}, {
+    "Code": "SHE",
+    "Name": "Son Ha Development of Renewable Energy JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SHE3"
+}, {
+    "Code": "SHI",
+    "Name": "Son Ha International Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SHI4"
+}, {
+    "Code": "SHN",
+    "Name": "HANIC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SHN4"
+}, {
+    "Code": "SHP",
+    "Name": "Southern Hydropower JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SHP9"
+}, {
+    "Code": "SHS",
+    "Name": "SHS",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SHS3"
+}, {
+    "Code": "SIC",
+    "Name": "ANI Joint Stocks Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SIC5"
+}, {
+    "Code": "SII",
+    "Name": "Sai Gon Water Infrastructure Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SII2"
+}, {
+    "Code": "SIV",
+    "Name": "Sivico JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SIV5"
+}, {
+    "Code": "SJD",
+    "Name": "Can Don Hydro Power JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SJD1"
+}, {
+    "Code": "SJE",
+    "Name": "Song Da N011 JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SJE9"
+}, {
+    "Code": "SJF",
+    "Name": "Sunstar Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SJF6"
+}, {
+    "Code": "SJS",
+    "Name": "Song Da Urban & Industrial Zone Investment and Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SJS9"
+}, {
+    "Code": "SKG",
+    "Name": "Superdong Fast Ferry Kien Giang JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SKG2"
+}, {
+    "Code": "SMA",
+    "Name": "Saigon Machinery Spare Parts JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SMA1"
+}, {
+    "Code": "SMB",
+    "Name": "Sai Gon Mien Trung Beer JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SMB9"
+}, {
+    "Code": "SMC",
+    "Name": "SMC Investment Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SMC7"
+}, {
+    "Code": "SPI",
+    "Name": "Spiral Galaxy JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SPI7"
+}, {
+    "Code": "SPM",
+    "Name": "SPM Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SPM9"
+}, {
+    "Code": "SRA",
+    "Name": "SARA. JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SRA0"
+}, {
+    "Code": "SRC",
+    "Name": "Sao Vang Rubber JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SRC6"
+}, {
+    "Code": "SRF",
+    "Name": "Searefico Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SRF9"
+}, {
+    "Code": "SSB",
+    "Name": "Southeast Asia Commercial JS Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "SSC",
+    "Name": "Southern Seed Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SSC4"
+}, {
+    "Code": "SSI",
+    "Name": "SSI Securities Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SSI1"
+}, {
+    "Code": "ST8",
+    "Name": "Sieu Thanh JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000ST84"
+}, {
+    "Code": "STB",
+    "Name": "Sai Gon Thuong Tin Commercial Joint Stock Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000STB4"
+}, {
+    "Code": "STG",
+    "Name": "South Logistics JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000STG3"
+}, {
+    "Code": "STK",
+    "Name": "Century Synthetic Fiber Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000STK5"
+}, {
+    "Code": "STP",
+    "Name": "Song Da Industry Trade JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000STP4"
+}, {
+    "Code": "SVD",
+    "Name": "Vu Dang Investment & Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "SVI",
+    "Name": "Bien Hoa Packaging Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SVI5"
+}, {
+    "Code": "SVN",
+    "Name": "Vexilla Viet Nam Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SVN5"
+}, {
+    "Code": "SVT",
+    "Name": "Saigon Viendong Technology JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SVT2"
+}, {
+    "Code": "SZC",
+    "Name": "Sonadezi Chau Duc Shareholding Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SZC9"
+}, {
+    "Code": "SZL",
+    "Name": "Sonadezi Long Thanh Shareholding Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000SZL0"
+}, {
+    "Code": "TA9",
+    "Name": "Thanh An 96 Installation and Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TA92"
+}, {
+    "Code": "TAR",
+    "Name": "Trung An Hi-Tech Farming JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TAR8"
+}, {
+    "Code": "TBC",
+    "Name": "Thac Ba Hydropower JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TBC8"
+}, {
+    "Code": "TBD",
+    "Name": "Dong Anh Electrical Equipment Manufacturing JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TBD6"
+}, {
+    "Code": "TC6",
+    "Name": "Vinacomin Coc Sau Coal JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TC66"
+}, {
+    "Code": "TCB",
+    "Name": "Vietnam Technological And Commercial Joint Stock Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TCB8"
+}, {
+    "Code": "TCD",
+    "Name": "Transport and Industry Development Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TCD4"
+}, {
+    "Code": "TCH",
+    "Name": "Hoang Huy Investment Financial",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TCH5"
+}, {
+    "Code": "TCL",
+    "Name": "Tan Cang Logistics and Stevedoring JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TCL7"
+}, {
+    "Code": "TCM",
+    "Name": "Thanh Cong Textile Garment Investment Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TCM5"
+}, {
+    "Code": "TCO",
+    "Name": "Duyen Hai Multi Modal Transport JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TCO1"
+}, {
+    "Code": "TCR",
+    "Name": "Taicera Enterprise Co",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TCR4"
+}, {
+    "Code": "TCT",
+    "Name": "Tay Ninh Cable Car Tour Co.",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TCT0"
+}, {
+    "Code": "TDC",
+    "Name": "Binh Duong Trade and Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TDC4"
+}, {
+    "Code": "TDG",
+    "Name": "TDG Global Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TDG5"
+}, {
+    "Code": "TDH",
+    "Name": "Thu Duc Housing Development Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TDH3"
+}, {
+    "Code": "TDM",
+    "Name": "Thu Dau Mot Water JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TDM3"
+}, {
+    "Code": "TDN",
+    "Name": "Vinacomin Deo Nai Coal JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TDN1"
+}, {
+    "Code": "TDP",
+    "Name": "Thuan Duc JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TDP6"
+}, {
+    "Code": "TDT",
+    "Name": "TDT Investment and Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TDT8"
+}, {
+    "Code": "TDW",
+    "Name": "Thu Duc Water Supply JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TDW2"
+}, {
+    "Code": "TEG",
+    "Name": "Truong Thanh Energy and Real Estate JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TEG3"
+}, {
+    "Code": "TGG",
+    "Name": "LOUIS CAPITAL Joint Stock Company",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TGG8"
+}, {
+    "Code": "THD",
+    "Name": "Thaiholdings JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "THG",
+    "Name": "Tien Giang Investment and Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000THG6"
+}, {
+    "Code": "THI",
+    "Name": "Electrical Equipment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000THI2"
+}, {
+    "Code": "THT",
+    "Name": "Vinacomin HaTu Coal JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000THT9"
+}, {
+    "Code": "TIG",
+    "Name": "THANGLONG INVE",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TIG4"
+}, {
+    "Code": "TIP",
+    "Name": "Tin Nghia Industrial Park Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TIP5"
+}, {
+    "Code": "TIX",
+    "Name": "Tan Binh Import Export JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TIX9"
+}, {
+    "Code": "TKC",
+    "Name": "TAKCO",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TKC9"
+}, {
+    "Code": "TKU",
+    "Name": "Tung Kuang Industrial JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TKU1"
+}, {
+    "Code": "TLD",
+    "Name": "Thang Long Urban Development and Construction Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TLD5"
+}, {
+    "Code": "TLG",
+    "Name": "Thien Long Group Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TLG8"
+}, {
+    "Code": "TLH",
+    "Name": "Tienlen Steel Corp JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TLH6"
+}, {
+    "Code": "TMB",
+    "Name": "Vinacomin Northern Coal Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TMB7"
+}, {
+    "Code": "TMP",
+    "Name": "Thac Mo Hydropower JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TMP7"
+}, {
+    "Code": "TMS",
+    "Name": "Transimex Saigon Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TMS1"
+}, {
+    "Code": "TMT",
+    "Name": "TMT Motor JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TMT9"
+}, {
+    "Code": "TMX",
+    "Name": "CEMENT.T. JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TMX1"
+}, {
+    "Code": "TN1",
+    "Name": "TNS Holdings JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TN14"
+}, {
+    "Code": "TNA",
+    "Name": "Thien Nam Trading Import Export Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TNA7"
+}, {
+    "Code": "TNC",
+    "Name": "Thong Nhat Rubber JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TNC3"
+}, {
+    "Code": "TNG",
+    "Name": "Tng Investment And Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TNG4"
+}, {
+    "Code": "TNH",
+    "Name": "Thai Nguyen International Hospital JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "TNI",
+    "Name": "Thanh Nam Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TNI0"
+}, {
+    "Code": "TNT",
+    "Name": "TNT Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TNT7"
+}, {
+    "Code": "TPB",
+    "Name": "Tien Phong Commercial Joint Stock Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TPB0"
+}, {
+    "Code": "TPC",
+    "Name": "Tan Dai Hung Plastic JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TPC8"
+}, {
+    "Code": "TRA",
+    "Name": "Traphaco JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TRA8"
+}, {
+    "Code": "TRC",
+    "Name": "Tay Ninh Rubber JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TRC4"
+}, {
+    "Code": "TSC",
+    "Name": "Techno Agricultural Supplying JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TSC2"
+}, {
+    "Code": "TTA",
+    "Name": "Truong Thanh Development & Construction Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "TTB",
+    "Name": "Tien Bo Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TTB2"
+}, {
+    "Code": "TTF",
+    "Name": "Truong Thanh Furniture Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TTF3"
+}, {
+    "Code": "TTH",
+    "Name": "Tien Thanh Service and Trading JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TTH9"
+}, {
+    "Code": "TV2",
+    "Name": "Power Engineering Consulting JSC 2",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TV22"
+}, {
+    "Code": "TV3",
+    "Name": "Power Engineering Consulting JSC 3",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TV30"
+}, {
+    "Code": "TV4",
+    "Name": "Power Engineering Consulting JSC 4",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TV48"
+}, {
+    "Code": "TVB",
+    "Name": "Tri Viet Securities Joint Stock Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TVB8"
+}, {
+    "Code": "TVC",
+    "Name": "Tri Viet Management Investment Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TVC6"
+}, {
+    "Code": "TVD",
+    "Name": "TVD",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TVD4"
+}, {
+    "Code": "TVS",
+    "Name": "Thien Viet Securities JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TVS2"
+}, {
+    "Code": "TVT",
+    "Name": "Viet Thang Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TVT0"
+}, {
+    "Code": "TXM",
+    "Name": "Gypsum And Cement JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TXM1"
+}, {
+    "Code": "TYA",
+    "Name": "Taya Vietnam Electric Wire and Cable JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000TYA4"
+}, {
+    "Code": "UDC",
+    "Name": "Urban Development and Construction Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000UDC2"
+}, {
+    "Code": "UIC",
+    "Name": "Idico Urban and House Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000UIC1"
+}, {
+    "Code": "UNI",
+    "Name": "Sao Mai Viet Investment and Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000UNI8"
+}, {
+    "Code": "V21",
+    "Name": "VINACONEX 21",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000V218"
+}, {
+    "Code": "VAF",
+    "Name": "Van Dien Fused Magnesium Phosphate Fertilizer JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VAF9"
+}, {
+    "Code": "VBC",
+    "Name": "VBC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VBC4"
+}, {
+    "Code": "VC2",
+    "Name": "Vina2 Investment and Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VC21"
+}, {
+    "Code": "VC3",
+    "Name": "Vietnam Construction JSC No. 3",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VC39"
+}, {
+    "Code": "VC7",
+    "Name": "BGI Group JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VC70"
+}, {
+    "Code": "VC9",
+    "Name": "Construction JSC No 9",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VC96"
+}, {
+    "Code": "VCA",
+    "Name": "Vnsteel Vicasa JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VCA6"
+}, {
+    "Code": "VCB",
+    "Name": "Joint Stock Commercial Bank for Foreign Trade of Vietnam",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VCB4"
+}, {
+    "Code": "VCC",
+    "Name": "VINACONEX 25",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VCC2"
+}, {
+    "Code": "VCF",
+    "Name": "Vinacafe Bien Hoa JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VCF5"
+}, {
+    "Code": "VCG",
+    "Name": "Vietnam Construction and Import Export JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VCG3"
+}, {
+    "Code": "VCI",
+    "Name": "Viet Capital Securities JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VCI9"
+}, {
+    "Code": "VCS",
+    "Name": "Vicostone JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VCS8"
+}, {
+    "Code": "VDL",
+    "Name": "Lam Dong Foodstuff JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VDL1"
+}, {
+    "Code": "VDP",
+    "Name": "Vidipha Central Pharmaceutical JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VDP2"
+}, {
+    "Code": "VDS",
+    "Name": "Viet Dragon Securities Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VDS6"
+}, {
+    "Code": "VE3",
+    "Name": "VNECO 3",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VE37"
+}, {
+    "Code": "VFG",
+    "Name": "Viet Nam Fumigation JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VFG6"
+}, {
+    "Code": "VGC",
+    "Name": "Viglacera Corp JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VGC3"
+}, {
+    "Code": "VGS",
+    "Name": "VGS",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VGS9"
+}, {
+    "Code": "VHC",
+    "Name": "Vinh Hoan Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VHC1"
+}, {
+    "Code": "VHE",
+    "Name": "Viet Nam Herbs and Foods JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VHE7"
+}, {
+    "Code": "VHL",
+    "Name": "VIGLACERA HALO",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VHL2"
+}, {
+    "Code": "VHM",
+    "Name": "Vinhomes JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VHM0"
+}, {
+    "Code": "VIB",
+    "Name": "Viet Nam International Commercial Joint Stock Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VIB1"
+}, {
+    "Code": "VIC",
+    "Name": "Vingroup JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VIC9"
+}, {
+    "Code": "VID",
+    "Name": "Vien Dong Investment Development Trading Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VID7"
+}, {
+    "Code": "VIG",
+    "Name": "VICS",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VIG0"
+}, {
+    "Code": "VIP",
+    "Name": "Vietnam Petroleum Transport JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VIP1"
+}, {
+    "Code": "VIX",
+    "Name": "VIX Securities JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VIX5"
+}, {
+    "Code": "VJC",
+    "Name": "Vietjet Aviation JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VJC7"
+}, {
+    "Code": "VKC",
+    "Name": "VKC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VKC5"
+}, {
+    "Code": "VMC",
+    "Name": "Vimeco JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VMC1"
+}, {
+    "Code": "VMD",
+    "Name": "Vimedimex Medi Pharma JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VMD9"
+}, {
+    "Code": "VND",
+    "Name": "VNDIRECT Securities Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VND7"
+}, {
+    "Code": "VNE",
+    "Name": "Vietnam Electricity Construction JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VNE5"
+}, {
+    "Code": "VNG",
+    "Name": "Thanh Thanh Cong Tourist JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VNG0"
+}, {
+    "Code": "VNI",
+    "Name": "VN Index",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "VNL",
+    "Name": "Vinalink International Freight Forwarders",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VNL0"
+}, {
+    "Code": "VNM",
+    "Name": "Vietnam Dairy Products JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VNM8"
+}, {
+    "Code": "VNR",
+    "Name": "Vietnam National Reinsurance",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VNR7"
+}, {
+    "Code": "VNS",
+    "Name": "Vietnam Sun Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VNS5"
+}, {
+    "Code": "VOS",
+    "Name": "Vietnam Ocean Shipping JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VOS3"
+}, {
+    "Code": "VPB",
+    "Name": "Vietnam Prosperity Joint Stock Commercial Bank",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VPB6"
+}, {
+    "Code": "VPD",
+    "Name": "Viet Nam Power Development JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VPD2"
+}, {
+    "Code": "VPG",
+    "Name": "Viet Phat Import Export Trading Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VPG5"
+}, {
+    "Code": "VPH",
+    "Name": "Van Phat Hung Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VPH3"
+}, {
+    "Code": "VPI",
+    "Name": "Van Phu - Invest Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VPI1"
+}, {
+    "Code": "VPS",
+    "Name": "Vietnam Pesticide JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VPS0"
+}, {
+    "Code": "VRC",
+    "Name": "Vrc Real Estate and Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VRC0"
+}, {
+    "Code": "VRE",
+    "Name": "Vincom Retail JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VRE6"
+}, {
+    "Code": "VSA",
+    "Name": "Vietnam Ocean Shipping Agency Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VSA2"
+}, {
+    "Code": "VSC",
+    "Name": "Vietnam Container Shipping JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VSC8"
+}, {
+    "Code": "VSH",
+    "Name": "Vinh Son Song Hinh Hydropower JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VSH7"
+}, {
+    "Code": "VSI",
+    "Name": "Water Supply Sewerage Construction and Investment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VSI5"
+}, {
+    "Code": "VTB",
+    "Name": "Viettronics Tan Binh JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VTB8"
+}, {
+    "Code": "VTO",
+    "Name": "Vietnam Tanker JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VTO1"
+}, {
+    "Code": "VTV",
+    "Name": "Vicem Energy and Environment JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000VTV6"
+}, {
+    "Code": "VTZ",
+    "Name": "Viet Thanh Plastic Trading & Manufacturing JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": null
+}, {
+    "Code": "WSS",
+    "Name": "WSS",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000WSS2"
+}, {
+    "Code": "YBM",
+    "Name": "Yen Bai Industry Mineral JSC",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000YBM7"
+}, {
+    "Code": "YEG",
+    "Name": "YEAH1 Group Corp",
+    "Country": "Vietnam",
+    "Exchange": "VN",
+    "Currency": "VND",
+    "Type": "Common Stock",
+    "Isin": "VN000000YEG3"
+}]

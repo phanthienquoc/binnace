@@ -1,27 +1,11 @@
-import { getData } from './../../providers/firebase/index';
 import { Express, Request, Response } from 'express';
-import { firebaseConfig } from '../../providers/firebase/config';
-import firebase, { db } from '../../providers/firebase';
-import { createUser, getUser, getUsers } from '../../providers/firebase/users';
-import {
-  collection,
-  query,
-  where,
-  doc,
-  setDoc,
-  getDocs,
-} from 'firebase/firestore';
 
 const iltHookRoute = (app: Express) => {
   app.get('/users', async (req: Request, res: Response) => {
-    getUsers();
-    // let usersRef = collection(db, 'users');
-
-    // const citiesRef = collection(db, 'cities');
-
-    // // const q = query(collection(db, 'users'), where('user_id', '!=', true));
-    // const q = query(collection(db, 'users'));
-
+    // let usersRef = collection(database, 'users');
+    // const citiesRef = collection(database, 'cities');
+    // // const q = query(collection(database, 'users'), where('user_id', '!=', true));
+    // const q = query(collection(database, 'users'));
     // const querySnapshot = await getDocs(q);
     // let restData = <any>[];
     // querySnapshot.forEach((doc) => {

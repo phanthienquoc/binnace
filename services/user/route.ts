@@ -1,18 +1,33 @@
 import { Express, Request, Response } from 'express';
-
+import { getUser, createUser } from '../../providers/firebase/users';
+import UserRepository from '../../repository/firebaseRepository/user';
 const userRoute = (app: Express) => {
+  let userManagement = new UserRepository();
   app
     .route('/user')
-    .get(async (req: Request, res: Response) => res.send([]))
+    .get(async (req: Request, res: Response) => {
+      let users = await userManagement.getItems();
+      res.send(users);
+    })
     .post(async (req: Request, res: Response) => res.send([]))
     .put(async (req: Request, res: Response) => res.send('Update'))
     .delete(async (req: Request, res: Response) => res.send('Detele'));
 };
 
 export const userTelegramRoute = (telegram: any = null) => {
+  let userManagement = new UserRepository();
   if (telegram) {
-    telegram.onCommand(/\/register/, (msg: any) => {
-      telegram.sendMessage(msg.from.id, `@${msg.from.username} registered in!`);
+    telegram.onCommand(/\/register/, async (msg: any) => {
+      console.log(JSON.stringify(msg));
+      telegram.sendMessage(msg.chat.id, `@${msg.from.username} registered in!`);
+      userManagement.create({
+        ...msg.from,
+        user_id: msg.from.id,
+        group_id: msg.chat.id,
+        metaData: JSON.stringify(msg),
+        stock: [],
+      });
+
       // let newSystemUser: any = await getUser({ user_id: msg.chat.id });
       // if (!newSystemUser) {
       //   await createUser({
@@ -24,26 +39,10 @@ export const userTelegramRoute = (telegram: any = null) => {
       // }
     });
     telegram.onCommand(/\/login/, async (msg: any) => {
-      telegram.sendMessage(msg.from.id, `@${msg.from.username} logged in!`);
-
-      // try {
-      //   let newSystemUser = await getUser({ user_id: msg.chat.id });
-      //   if (newSystemUser) {
-      //     let user: any = await signInAnonymously(auth);
-      //     console.log(msg);
-      //     telegram.sendMessage(msg.from.id, `@${msg.from.username} logged in!`);
-      //   } else {
-      //     telegram.sendMessage(msg.from.id, `@${msg.from.username} logged in!`);
-      //   }
-      // } catch (error) {
-      //   let newErrror: any = error;
-      //   const errorCode = newErrror.code;
-      //   const errorMessage = newErrror.message;
-      //   telegram.sendMessage(
-      //     msg.from.id,
-      //     `@${msg.from.username} login fail! ${errorMessage}`
-      //   );
-      // }
+      telegram.sendMessage(msg.chat.id, `@${msg.from.username} logged in!`);
+    });
+    telegram.onCommand(/\/delete/, async (msg: any) => {
+      userManagement.delete(msg.from.id);
     });
   }
 };

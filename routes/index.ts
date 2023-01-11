@@ -4,9 +4,11 @@ import tet from '../services/tet/route';
 import home from '../services/home/route';
 import user from '../services/user/route';
 import cron from '../services/cronjob/route';
+import stock from '../services/stock/route';
+import order from '../services/order/route';
 import notFound from '../services/notfound/route';
 
-const registerRoutes = [tet, home, user, cron];
+const registerRoutes = [tet, home, user, cron, stock, order];
 const appRoutes = [...registerRoutes, notFound];
 
 export const API_Routes = (app: Express) => {
