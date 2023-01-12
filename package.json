@@ -10,7 +10,7 @@
     "format": "prettier-eslint \"$PWD/{,!(node_modules)/**/}*.{js,json}\"",
     "format:fix": "prettier-eslint --write \"$PWD/{,!(node_modules)/**/}*.{js,json}\"",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon --experimental-specifier-resolution=node --exec \"ts-node\" index.ts"
+    "start": "nodemon --experimental-specifier-resolution=node --exec \"ts-node\" index.ts"
   },
   "lint-staged": {
     "*.js": [
