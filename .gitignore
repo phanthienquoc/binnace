@@ -4,8 +4,8 @@ node_modules/
 # Optional eslint cache
 .eslintcache
 
-# dotenv environment variables file
-.env
+# # dotenv environment variables file
+# .env
 
 # Others
 /others

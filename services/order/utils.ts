@@ -37,7 +37,7 @@ export const getDataFromTextByRegex = (
 
     objectExtractedData = {
       id: mxs[2],
-      init_item_date: new Date().getTime(),
+      init_item_date: new Date(new Date().setHours(0, 0, 0, 0)).getTime(),
       action: mxs[1],
       code: mxs[2],
       quantity: mxs[3],
