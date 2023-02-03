@@ -14,6 +14,7 @@ export const TELEGRAM = {
       MESSAGE: 'SYSTEM_LOGGER_SERVICE_ONLINE!!!',
     },
   },
+  BOT_USERNAME: '@alexander_lucifer_bot',
   BOT_TELEGRAM_TOKEN: '1290547542:AAGo2y1rFjAf3EqGpGeYvx5Zm4F73rlBDgA',
   TET_FEATURE: {
     GROUP: -769366227,
