@@ -63,14 +63,7 @@ class StockRepository extends IRepository {
 
   public async update(item: any) {
     const itemRef = doc(database, this._serviceName, `${item.id}`);
-    console.log('UPdate ', item);
-    // Set the "capital" field of the city 'DC'
     await updateDoc(itemRef, item);
-    // telegram.sendChannel(
-    //   TELEGRAM.CHANNEL.SERVICE.ID,
-    //   `${this._serviceName}\n ${JSON.stringify(item)}`
-    // );
-    // return this._database.update(userRef, item);
   }
   public async delete(id: any) {
     try {
