@@ -19,10 +19,14 @@ export const adminSystemLogin = async () => {
     let systemPassword = process.env.ADMIN_PASSWORD || '';
 
     await signInWithEmailAndPassword(auth, systemEmail, systemPassword);
-    telegram.sendChannel(
-      TELEGRAM.CHANNEL.SYSTEM.ID,
-      `<b>&#128127; ADMIN FIREBASE LOGGED IN!!! &#128127;</b>`
-    );
+    /**
+     * TODO
+     * Enable for channel notify
+     * telegram.sendChannel(
+     * TELEGRAM.CHANNEL.SYSTEM.ID,
+     * `<b>&#128127; ADMIN FIREBASE LOGGED IN!!! &#128127;</b>`
+     * );
+     */
   } catch (error) {
     console.log(error);
   }
