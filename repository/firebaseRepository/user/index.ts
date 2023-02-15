@@ -33,6 +33,15 @@ class UserRepository extends IRepository {
       users = [...users, doc.data()];
     });
 
+    users = users.map((item: any) => ({
+      user_id: item.user_id,
+      first_name: item.first_name,
+      last_name: item.last_name,
+      username: item.username,
+      language_code: item.language_code,
+      is_bot: item.is_bot,
+    }));
+
     return users;
   }
   public async create(item: any) {

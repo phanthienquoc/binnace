@@ -1,6 +1,6 @@
 import { Express, Request, Response } from 'express';
-import { getUser, createUser } from '../../providers/firebase/users';
 import UserRepository from '../../repository/firebaseRepository/user';
+
 const userRoute = (app: Express) => {
   let userManagement = new UserRepository();
   app
