@@ -9,7 +9,8 @@ import order from '../services/order/route';
 import binance from '../services/binance/route';
 import notFound from '../services/notfound/route';
 
-const registerRoutes = [tet, home, user, cron, stock, order, binance];
+// const registerRoutes = [tet, home, user, cron, stock, order, binance];
+const registerRoutes = [binance];
 const appRoutes = [...registerRoutes, notFound];
 
 export const API_Routes = (app: Express) => {

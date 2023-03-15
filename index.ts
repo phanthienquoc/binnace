@@ -3,7 +3,7 @@ import express, { Express } from 'express';
 import dotenv from 'dotenv';
 import { API_Routes, TELEGRAM_Routes } from './routes';
 import bodyParser from 'body-parser';
-import { adminSystemLogin } from './providers/firebase/index';
+// import { adminSystemLogin } from './providers/firebase/index';
 import telegram from './providers/telegram';
 
 dotenv.config();
@@ -38,7 +38,7 @@ app.use(function (req, res, next) {
 API_Routes(app);
 TELEGRAM_Routes(telegram);
 
-adminSystemLogin();
+// adminSystemLogin();
 
 app.use(express.static('public'));
 app.listen(port, () => {

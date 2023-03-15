@@ -32,10 +32,6 @@ const telegramRoute = (telegram: any = null) => {
     telegram.onCommand(/\/binance/, async (msg: any) => {
       let tickers = await binance.prices();
       let futureBalance = await binance.futuresBalance();
-      // binance.futuresMarkPriceStream(console.log);
-      binance.futuresTickerStream((data: any) => {
-        console.log(data);
-      });
 
       binance.balance((error: any, balances: any) => {
         if (error) return console.error(error);
