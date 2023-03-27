@@ -1,5 +1,5 @@
-import { Express, Request, Response } from 'express';
 import Binance from 'node-binance-api';
+import { Express, Request, Response } from 'express';
 import { sumBalanceSpot, sumFutureBalance, filterData } from './utils';
 
 //initialize the WebSocket server instance

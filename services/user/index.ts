@@ -1,19 +1,13 @@
-import { IUser } from './model';
+import mongoose from 'mongoose';
 
-class UserManagement {
-  users = <IUser[]>[];
-  constructor() {}
+const userSchema = new mongoose.Schema({
+  first_name: { type: String, default: null },
+  last_name: { type: String, default: null },
+  email: { type: String, unique: true },
+  password: { type: String },
+  role: { type: String },
+});
 
-  create(user: IUser) {
-    this.users.push(user);
-  }
+const User = mongoose.model('user', userSchema);
 
-  getList() {
-    return this.users.map((item: any) => {
-      delete item.instance;
-      return item;
-    });
-  }
-}
-
-export default new UserManagement();
+export default User;

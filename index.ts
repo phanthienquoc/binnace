@@ -1,16 +1,16 @@
-import express, { Express } from 'express';
-
 import dotenv from 'dotenv';
-import { API_Routes, TELEGRAM_Routes } from './routes';
+import express from 'express';
 import bodyParser from 'body-parser';
-// import { adminSystemLogin } from './providers/firebase/index';
 import telegram from './providers/telegram';
+import { Express } from 'express';
+import { API_Routes, TELEGRAM_Routes } from './routes';
 
+import connect from './providers/mongodb';
 dotenv.config();
 
+console.log(process.env.ENV);
 const app: Express = express();
-const port = process.env.PORT;
-// app.use(cors({ origin: ['http://localhost:8080', 'http://127.0.0.1:3000'] }));
+const port = process.env.SOCKET_PORT;
 
 app.use(
   bodyParser.urlencoded({
@@ -38,11 +38,10 @@ app.use(function (req, res, next) {
 API_Routes(app);
 TELEGRAM_Routes(telegram);
 
-// adminSystemLogin();
-
-app.use(express.static('public'));
+// app.use(express.static('public'));
 app.listen(port, () => {
-  console.log(`⚡️[server]: Server is running at http://localhost:${port}`);
+  connect();
+  console.log(`⚡️[server][Binance]⚡️`);
 });
 
 export default app;

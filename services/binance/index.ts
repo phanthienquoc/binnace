@@ -1,8 +1,5 @@
 import { IStock } from './model';
-import { createTicket } from '../../providers/firebase/stock';
-import { Express, Request, Response } from 'express';
-
-// [GIL][15][6 / 1 / 2023][19.8];
+import { Request, Response } from 'express';
 
 class StockManagement {
   Stocks = <IStock[]>[];

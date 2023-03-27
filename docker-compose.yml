@@ -1,0 +1,21 @@
+version: "3"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "9999:9999"
+    env_file:
+      - .env
+      - .env.production
+      - production
+    environment:
+      - ENV=EVN_PRODUCTION
+      - SOCKET_PORT=9999
+      - ADMIN_GROUP_ID=-1001902936364
+      - BOT_TOKEN=5979328490:AAGaPTltjxVeqx7P-P-rmSZFINjQvjf3NLo     
+      - MONGO_DB_ID=snowflake
+      - MONGO_DB_PASSWORD=Snowflake2607
+
+    command: npm run production
