@@ -1,8 +1,8 @@
 {
-  "name": "nodejs-express-template",
+  "name": "binance-notification",
   "version": "1.0.0",
   "type": "module",
-  "description": "Scalable and basic template for making Node.js apps by using express",
+  "description": "Binace notification application",
   "main": "index.ts",
   "scripts": {
     "lint": "eslint .",
@@ -46,19 +46,20 @@
     "dotenv": "8.2.0",
     "express": "4.17.1",
     "express-ip": "1.0.4",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "^8.5.1",
     "lodash": "4.17.21",
+    "mongoose": "7.0.1",
     "node-binance-api": "0.13.1",
     "node-cron": "3.0.2",
     "node-telegram-bot-api": "0.60.0",
     "nodemon": "2.0.20",
     "ts-node": "10.9.1",
     "tsconfig-paths": "4.1.1",
-    "ws": "8.11.0",
-    "mongoose": "7.0.1"
+    "ws": "8.11.0"
   },
   "devDependencies": {
     "@types/express": "4.17.15",
+    "@types/jsonwebtoken": "^9.0.1",
     "@types/node": "18.11.15",
     "eslint": "6.8.0",
     "eslint-config-airbnb-base": "14.1.0",

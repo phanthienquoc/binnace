@@ -1,8 +1,8 @@
 import { TELEGRAM } from './../../constants/constants';
-import { database } from '../../providers/firebase';
+import { database } from '../../src/providers/firebase';
 import { doc, setDoc, deleteDoc, addDoc } from 'firebase/firestore';
 import { query, where, getDocs, collection } from 'firebase/firestore';
-import telegram from '../../providers/telegram';
+import telegram from '../../src/providers/telegram';
 class FireBaseRepository {
   database: any;
   serviceName: string;

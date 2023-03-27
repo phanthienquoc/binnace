@@ -1,9 +1,9 @@
-import telegram from '../../../providers/telegram';
+import telegram from '../../../src/providers/telegram';
 
 import IRepository from '../..';
 import { TELEGRAM } from './../../../constants/constants';
 import { doc, setDoc, deleteDoc } from 'firebase/firestore';
-import { database } from './../../../providers/firebase/index';
+import { database } from './../../../src/providers/firebase/index';
 import {
   query,
   where,

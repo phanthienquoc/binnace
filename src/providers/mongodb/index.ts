@@ -10,6 +10,7 @@ const username = encodeURIComponent(MONGO_DB_ID);
 const password = encodeURIComponent(MONGO_DB_PASSWORD);
 const connectionPath = `mongodb+srv://${username}:${password}@cluster0.azidmek.mongodb.net/?retryWrites=true&w=majority`;
 
+console.log(connectionPath);
 const connect = (
   options = {
     useNewUrlParser: true,

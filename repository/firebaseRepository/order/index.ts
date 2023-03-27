@@ -1,9 +1,9 @@
 import IRepository from '../..';
-import telegram from '../../../providers/telegram';
+import telegram from '../../../src/providers/telegram';
 
 import { TELEGRAM } from './../../../constants/constants';
 import { doc, addDoc, deleteDoc } from 'firebase/firestore';
-import { database } from './../../../providers/firebase/index';
+import { database } from './../../../src/providers/firebase/index';
 import { query, where, getDocs, collection } from 'firebase/firestore';
 
 class OrderRepository extends IRepository {

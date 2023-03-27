@@ -1,4 +1,4 @@
-import telegram from '../providers/telegram';
+import telegram from '../src/providers/telegram';
 import { TELEGRAM } from '../constants/constants';
 class IRepository {
   _database: any;

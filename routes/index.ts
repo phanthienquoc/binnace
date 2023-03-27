@@ -1,7 +1,7 @@
 import { Express } from 'express';
 
-import binance from '../services/binance/route';
-import notFound from '../services/notfound/route';
+import binance from '../src/services/binance/route';
+import notFound from '../src/services/notfound/route';
 
 const registerRoutes = [binance];
 const appRoutes = [...registerRoutes, notFound];
