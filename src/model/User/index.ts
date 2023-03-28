@@ -8,5 +8,6 @@ const userSchema = new mongoose.Schema({
   role: { type: String },
   user_id: { type: String, unique: true },
 });
+const User = mongoose.model('user', userSchema);
 
-export default mongoose.model('user', userSchema);
+export default User;

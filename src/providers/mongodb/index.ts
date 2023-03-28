@@ -11,25 +11,25 @@ const password = encodeURIComponent(MONGO_DB_PASSWORD);
 const connectionPath = `mongodb+srv://${username}:${password}@cluster0.azidmek.mongodb.net/?retryWrites=true&w=majority`;
 
 console.log(connectionPath);
-const connect = (
-  options = {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-    serverApi: ServerApiVersion.v1,
-  }
-) => {
-  return new Promise((resolve, reject) => {
-    mongoose
-      .connect(connectionPath, options)
-      .then((client: any) => {
-        resolve(client);
-        console.log('Successfully connected to database');
-      })
-      .catch((error: any) => {
-        console.error(error);
-        reject(error);
-      });
-  });
-};
+class MongoDB {
+  db: any;
+  constructor() {}
+  public static async initialize(): Promise<MongoDB> {
+    const instance = new MongoDB();
+    try {
+      const options = {
+        useNewUrlParser: true,
+        useUnifiedTopology: true,
+        serverApi: ServerApiVersion.v1,
+      };
+      instance.db = await mongoose.connect(connectionPath, options);
+      // console.log('Successfully connected to database');
+    } catch (error) {
+      console.error(error);
+    }
 
-export default connect;
+    return instance;
+  }
+}
+
+export default MongoDB;

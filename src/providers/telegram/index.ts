@@ -1,7 +1,9 @@
 import dotenv from 'dotenv';
 import User from '../../model/User';
 import Key from '../../model/APIKey';
+import App from '../../../config';
 import TelegramBot from 'node-telegram-bot-api';
+import { sumBalanceSpot, sumFutureBalance, filterData } from '../../utils';
 
 dotenv.config();
 const bot_token: any = process.env.BOT_TOKEN;
@@ -12,11 +14,11 @@ interface TextMatchInterface {
   regexp: RegExp;
   action: any;
 }
-class TelegramProvider {
+class Telegram {
   bot: any;
   actions: TextMatchInterface[] = [];
 
-  constructor(bot_token: any) {
+  constructor() {
     try {
       if (this.bot) return this.bot;
       this.bot = new TelegramBot(bot_token, {
@@ -27,7 +29,7 @@ class TelegramProvider {
       });
 
       this.bot.onText(/\/register/, async (msg: any, match: any) => {
-        const user = await User.findOne({ user_id: msg.from.id });
+        const user: any = await User.findOne({ user_id: msg.from.id });
         if (!user) {
           const createdUser = await User.create({
             user_id: msg.from.id,
@@ -37,7 +39,6 @@ class TelegramProvider {
             role: 'admin',
             password: 'admin',
           });
-          console.log(createdUser);
 
           await Key.create({ user_id: msg.from.id });
           this.bot.sendMessage(msg.from.id, 'created user!');
@@ -67,9 +68,24 @@ class TelegramProvider {
           }
         }
       );
+      this.bot.onText(/\/balance/, async (msg: any, match: any) => {
+        const item = (await App).getUserById(msg.from.id.toString());
+        let balances = await item[0].binance.balance();
+        let ticker = await item[0].binance.prices();
+
+        let blance = filterData(Object.entries(balances), ticker);
+        this.bot.sendMessage(
+          msg.from.id,
+          `
+          Balance Spot: ${sumBalanceSpot(
+            blance
+          )}\nBalance Futu: ${sumFutureBalance(blance)}\n
+        `
+        );
+      });
       this.bot.on('polling_error', console.log);
     } catch (error) {
-      console.log('Re-init telegram');
+      // console.log('Re-init telegram');
       this.reset();
     }
   }
@@ -98,6 +114,4 @@ class TelegramProvider {
   }
 }
 
-const telegram = new TelegramProvider(bot_token);
-
-export default telegram;
+export default Telegram;

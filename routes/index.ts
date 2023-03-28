@@ -12,7 +12,6 @@ export const API_Routes = (app: Express) => {
 
 export const TELEGRAM_Routes = (telegram: any) => {
   appRoutes.map((route: any) => {
-    console.log(route.TELEGRAMRoute);
     route.TELEGRAMRoute(telegram);
   });
 };

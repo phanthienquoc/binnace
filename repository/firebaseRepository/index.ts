@@ -22,7 +22,7 @@ class FireBaseRepository {
     const querySnapshot = await getDocs(q);
     querySnapshot.forEach((doc) => {
       item = doc.data();
-      console.log(item.id, item);
+      // console.log(item.id, item);
     });
 
     return item;
@@ -42,7 +42,7 @@ class FireBaseRepository {
     try {
       await addDoc(this.database, item);
     } catch (error) {
-      console.log(error);
+      // console.log(error);
     }
   }
 
@@ -54,7 +54,7 @@ class FireBaseRepository {
     try {
       await deleteDoc(doc(database, this.serviceName, `${id}`));
     } catch (error) {
-      console.log(error);
+      // console.log(error);
     }
   }
 }

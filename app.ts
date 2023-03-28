@@ -1,4 +1,2 @@
-import express from 'express';
-import configApp from './config';
-
-export default configApp(express());
+import initializeApp from './config';
+export default initializeApp;

@@ -1,27 +1,18 @@
-import mongoose from 'mongoose';
-import KeyAPI from '../key';
-
+import Key from '../../model/APIKey';
 import BinanceNode from 'node-binance-api';
 import { Express, Request, Response } from 'express';
 import { sumBalanceSpot, sumFutureBalance, filterData } from './utils';
-import Key from '../key';
 
 class Binance {
-  userId: any;
-  binance: any;
-  constructor(userId: string) {
-    this.userId = userId;
-  }
-  static async create(userId: string): Promise<Binance> {
-    const instance = new Binance(userId);
-    const userKey = await Key.find({ userId: userId });
-    console.log(userKey);
-    const apiKey = '';
-    const apiSecret = '';
+  constructor() {}
+  static async initialize(user_id: string): Promise<Binance> {
+    let instance = new Binance();
 
-    instance.binance = new BinanceNode().options({
-      APIKEY: apiKey,
-      APISECRET: apiSecret,
+    const userKey = await Key.findOne({ user_id: user_id });
+
+    instance = await new BinanceNode().options({
+      APIKEY: userKey?.key,
+      APISECRET: userKey?.secret,
       useServerTime: true,
       family: 4,
     });
