@@ -1,3 +1,9 @@
+import dotenv from 'dotenv';
+import jwt from 'jsonwebtoken';
+
+dotenv.config();
+const bot_token: any = process.env.BOT_TOKEN;
+
 export const sumBalanceSpot = (pricess: any) => {
   let total = 0;
   pricess.map((item: any) => {
@@ -49,4 +55,12 @@ export const sumFutureBalance = (futureBalance: any) => {
       balance += parseFloat(item.balance);
     });
   return balance;
+};
+
+export const decodeText = (decodeText: string) => {
+  return jwt.decode(decodeText, bot_token);
+};
+
+export const encodeText = (encodeText: string) => {
+  return jwt.sign(encodeText, bot_token);
 };

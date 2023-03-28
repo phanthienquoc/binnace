@@ -3,6 +3,7 @@ import User from '../../model/User';
 import Key from '../../model/APIKey';
 import App from '../../../config';
 import TelegramBot from 'node-telegram-bot-api';
+import { encodeText } from './../../utils/index';
 import { sumBalanceSpot, sumFutureBalance, filterData } from '../../utils';
 
 dotenv.config();
@@ -54,7 +55,7 @@ class Telegram {
             case 'key': {
               await Key.findOneAndUpdate(
                 { user_id: msg.from.id },
-                { $set: { key: tokenKey } }
+                { $set: { key: encodeText(tokenKey) } }
               );
               break;
             }
@@ -62,7 +63,7 @@ class Telegram {
               const tokenSecret = match[2];
               await Key.findOneAndUpdate(
                 { user_id: msg.from.id },
-                { $set: { secret: tokenSecret } }
+                { $set: { secret: encodeText(tokenSecret) } }
               );
             }
           }
@@ -72,6 +73,9 @@ class Telegram {
         const item = (await App).getUserById(msg.from.id.toString());
         let balances = await item[0].binance.balance();
         let ticker = await item[0].binance.prices();
+
+        const balance = await item[0].binance;
+        console.log('accountInfo balance', balance);
 
         let blance = filterData(Object.entries(balances), ticker);
         this.bot.sendMessage(

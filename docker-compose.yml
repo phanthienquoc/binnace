@@ -9,7 +9,6 @@ services:
     env_file:
       - .env
       - .env.production
-      - production
     environment:
       - ENV=EVN_PRODUCTION
       - SOCKET_PORT=9999

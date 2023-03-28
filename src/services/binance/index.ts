@@ -1,7 +1,6 @@
 import Key from '../../model/APIKey';
 import BinanceNode from 'node-binance-api';
-import { Express, Request, Response } from 'express';
-import { sumBalanceSpot, sumFutureBalance, filterData } from './utils';
+import { decodeText } from '../../utils';
 
 class Binance {
   constructor() {}
@@ -9,10 +8,12 @@ class Binance {
     let instance = new Binance();
 
     const userKey = await Key.findOne({ user_id: user_id });
+    const apiKey: any = userKey?.key;
+    const apiSecret: any = userKey?.secret;
 
     instance = await new BinanceNode().options({
-      APIKEY: userKey?.key,
-      APISECRET: userKey?.secret,
+      APIKEY: decodeText(apiKey),
+      APISECRET: decodeText(apiSecret),
       useServerTime: true,
       family: 4,
     });

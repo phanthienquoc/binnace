@@ -23,13 +23,6 @@ RUN sed -i "s|BOT_TOKEN|${BOT_TOKEN}|" .env.production
 RUN sed -i "s|MONGO_DB_ID|${MONGO_DB_ID}|" .env.production
 RUN sed -i "s|MONGO_DB_PASSWORD|${MONGO_DB_PASSWORD}|" .env.production
 
-RUN sed -i "s|ENV|${ENV}|" production
-RUN sed -i "s/SOCKET_PORT/${SOCKET_PORT}/" production
-RUN sed -i "s|ADMIN_GROUP_ID|${ADMIN_GROUP_ID}|" production
-RUN sed -i "s|BOT_TOKEN|${BOT_TOKEN}|" production
-RUN sed -i "s|MONGO_DB_ID|${MONGO_DB_ID}|" production
-RUN sed -i "s|MONGO_DB_PASSWORD|${MONGO_DB_PASSWORD}|" production
-
 COPY . .
 
 EXPOSE 9999
